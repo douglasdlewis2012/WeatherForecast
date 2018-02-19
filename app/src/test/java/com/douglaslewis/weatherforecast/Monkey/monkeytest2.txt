@@ -1,0 +1,2410 @@
+:Monkey: seed=1461002524762 count=10000
+:AllowPackage: com.douglaslewis.weatherforecast
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(893.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(859.2369,1229.2938)
+:Sending Touch (ACTION_DOWN): 0:(662.0,539.0)
+:Sending Touch (ACTION_UP): 0:(732.4385,450.28845)
+:Sending Touch (ACTION_DOWN): 0:(597.0,298.0)
+:Sending Touch (ACTION_UP): 0:(606.5084,289.326)
+:Sending Touch (ACTION_DOWN): 0:(440.0,595.0)
+:Sending Touch (ACTION_UP): 0:(434.87045,606.2367)
+:Sending Touch (ACTION_DOWN): 0:(485.0,755.0)
+:Sending Touch (ACTION_UP): 0:(496.97668,785.8698)
+:Sending Touch (ACTION_DOWN): 0:(679.0,106.0)
+:Sending Touch (ACTION_UP): 0:(690.08453,102.201805)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(854.0,1736.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(851.33594,1726.3436)
+    // Injection Failed
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(774.0,1761.0)
+:Sending Touch (ACTION_UP): 0:(715.556,1776.0)
+    // activityResuming(com.douglaslewis.weatherforecast)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+    //[calendar_time:2016-04-15 12:29:54.550  system_uptime:3368851]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(890.0,1310.0)
+:Sending Touch (ACTION_UP): 0:(884.2154,1322.8958)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(899.0,1615.0)
+:Sending Touch (ACTION_UP): 0:(897.0864,1610.069)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+    //[calendar_time:2016-04-15 12:29:56.005  system_uptime:3370264]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(620.0,1479.0)
+:Sending Touch (ACTION_UP): 0:(607.76636,1478.5361)
+:Sending Touch (ACTION_DOWN): 0:(31.0,734.0)
+:Sending Touch (ACTION_UP): 0:(0.0,847.3794)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(26.0,257.0)
+:Sending Touch (ACTION_UP): 0:(22.650818,255.56499)
+:Sending Touch (ACTION_DOWN): 0:(123.0,695.0)
+:Sending Touch (ACTION_UP): 0:(118.147156,700.3405)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(713.0,964.0)
+:Sending Touch (ACTION_UP): 0:(705.6805,962.09393)
+:Sending Touch (ACTION_DOWN): 0:(2.0,490.0)
+:Sending Touch (ACTION_UP): 0:(5.3492975,488.02405)
+:Sending Touch (ACTION_DOWN): 0:(123.0,492.0)
+:Sending Touch (ACTION_UP): 0:(116.77017,503.4971)
+:Sending Touch (ACTION_DOWN): 0:(862.0,1003.0)
+:Sending Touch (ACTION_UP): 0:(866.8944,1001.74457)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(385.0,168.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(385.15283,163.35216)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    //[calendar_time:2016-04-15 12:29:56.714  system_uptime:3370973]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(9.0,303.0)
+:Sending Touch (ACTION_UP): 0:(0.0,307.3023)
+:Sending Touch (ACTION_DOWN): 0:(820.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(819.62164,1392.5605)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(189.0,857.0)
+:Sending Touch (ACTION_UP): 0:(188.74136,854.4166)
+:Sending Touch (ACTION_DOWN): 0:(163.0,276.0)
+:Sending Touch (ACTION_UP): 0:(66.181206,338.18814)
+:Sending Touch (ACTION_DOWN): 0:(305.0,1303.0)
+:Sending Touch (ACTION_UP): 0:(294.4413,1298.2654)
+:Sending Touch (ACTION_DOWN): 0:(121.0,1122.0)
+:Sending Touch (ACTION_UP): 0:(96.40076,1168.9545)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(90.0,373.0)
+:Sending Touch (ACTION_UP): 0:(77.716125,374.23532)
+:Sending Touch (ACTION_DOWN): 0:(728.0,241.0)
+:Sending Touch (ACTION_UP): 0:(732.7147,239.4714)
+:Sending Touch (ACTION_DOWN): 0:(267.0,894.0)
+:Sending Touch (ACTION_UP): 0:(260.6197,885.71)
+:Sending Touch (ACTION_DOWN): 0:(58.0,424.0)
+:Sending Touch (ACTION_UP): 0:(52.91281,423.96045)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.browser/.BrowserActivity } in package com.android.browser
+    //[calendar_time:2016-04-15 12:29:57.774  system_uptime:3372033]
+    // Sending event #400
+    //[calendar_time:2016-04-15 12:29:57.774  system_uptime:3372033]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(699.0,127.0)
+:Sending Touch (ACTION_UP): 0:(710.56586,132.4752)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(896.0,818.0)
+:Sending Touch (ACTION_UP): 0:(897.08026,828.49097)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(813.0,621.0)
+:Sending Touch (ACTION_UP): 0:(819.45636,601.84283)
+    // activityResuming(com.douglaslewis.weatherforecast)
+:Sending Touch (ACTION_DOWN): 0:(204.0,851.0)
+:Sending Touch (ACTION_UP): 0:(227.85478,739.54285)
+:Sending Touch (ACTION_DOWN): 0:(1055.0,1396.0)
+    //[calendar_time:2016-04-15 12:29:58.445  system_uptime:3372704]
+    // Sending event #500
+:Sending Touch (ACTION_UP): 0:(1080.0,1453.342)
+:Sending Touch (ACTION_DOWN): 0:(399.0,151.0)
+:Sending Touch (ACTION_UP): 0:(372.71893,139.8765)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(439.0,1225.0)
+:Sending Touch (ACTION_UP): 0:(430.043,1215.1467)
+:Sending Touch (ACTION_DOWN): 0:(492.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(499.05954,1059.1746)
+:Sending Touch (ACTION_DOWN): 0:(511.0,624.0)
+:Sending Touch (ACTION_UP): 0:(432.14258,651.999)
+:Sending Touch (ACTION_DOWN): 0:(528.0,385.0)
+:Sending Touch (ACTION_UP): 0:(575.5927,373.10992)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(913.0,274.0)
+:Sending Touch (ACTION_UP): 0:(903.5337,269.69772)
+:Sending Touch (ACTION_DOWN): 0:(705.0,5.0)
+:Sending Touch (ACTION_UP): 0:(705.06177,18.754341)
+:Sending Touch (ACTION_DOWN): 0:(758.0,1100.0)
+:Sending Touch (ACTION_UP): 0:(801.1204,1115.2632)
+:Sending Touch (ACTION_DOWN): 0:(791.0,87.0)
+:Sending Touch (ACTION_UP): 0:(781.2594,94.01211)
+:Sending Touch (ACTION_DOWN): 0:(990.0,1369.0)
+:Sending Touch (ACTION_UP): 0:(894.62384,1415.2133)
+:Sending Touch (ACTION_DOWN): 0:(888.0,590.0)
+:Sending Touch (ACTION_UP): 0:(856.17975,607.42633)
+:Sending Touch (ACTION_DOWN): 0:(396.0,270.0)
+    //[calendar_time:2016-04-15 12:29:59.341  system_uptime:3373600]
+    // Sending event #600
+:Sending Touch (ACTION_UP): 0:(337.09457,358.9407)
+:Sending Touch (ACTION_DOWN): 0:(296.0,356.0)
+:Sending Touch (ACTION_UP): 0:(291.9401,358.40353)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(585.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(590.3006,1369.211)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(603.0,1496.0)
+:Sending Touch (ACTION_UP): 0:(605.3828,1485.7852)
+:Sending Touch (ACTION_DOWN): 0:(708.0,467.0)
+:Sending Touch (ACTION_UP): 0:(703.0885,465.46933)
+:Sending Touch (ACTION_DOWN): 0:(583.0,1377.0)
+:Sending Touch (ACTION_UP): 0:(577.3105,1363.038)
+:Sending Touch (ACTION_DOWN): 0:(253.0,456.0)
+:Sending Touch (ACTION_UP): 0:(267.87265,442.49084)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(496.0,345.0)
+:Sending Touch (ACTION_UP): 0:(484.15417,347.74756)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    //[calendar_time:2016-04-15 12:29:59.929  system_uptime:3374188]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(142.0,368.0)
+:Sending Touch (ACTION_UP): 0:(120.53454,339.8862)
+:Sending Touch (ACTION_DOWN): 0:(10.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(10.147261,1675.9343)
+:Sending Touch (ACTION_DOWN): 0:(459.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(414.93503,1608.3113)
+:Sending Touch (ACTION_DOWN): 0:(789.0,13.0)
+:Sending Touch (ACTION_UP): 0:(791.5087,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(521.0,711.0)
+:Sending Touch (ACTION_UP): 0:(561.7841,743.5505)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(192.0,194.0)
+:Sending Touch (ACTION_UP): 0:(186.30345,203.5652)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(502.0,119.0)
+    //[calendar_time:2016-04-15 12:30:00.357  system_uptime:3374616]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(503.14844,118.70934)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(613.0,123.0)
+:Sending Touch (ACTION_UP): 0:(612.9911,122.33365)
+:Sending Touch (ACTION_DOWN): 0:(757.0,1651.0)
+:Sending Touch (ACTION_UP): 0:(766.7222,1650.404)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,26.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,13.849893)
+:Sending Touch (ACTION_DOWN): 0:(482.0,944.0)
+:Sending Touch (ACTION_UP): 0:(476.3577,949.05225)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(303.0,724.0)
+:Sending Touch (ACTION_UP): 0:(303.5048,728.22845)
+:Sending Touch (ACTION_DOWN): 0:(990.0,121.0)
+:Sending Touch (ACTION_UP): 0:(978.84125,113.82643)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2016-04-15 12:30:00.919  system_uptime:3375178]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(693.0,753.0)
+:Sending Touch (ACTION_UP): 0:(692.8582,740.82404)
+:Sending Touch (ACTION_DOWN): 0:(159.0,656.0)
+:Sending Touch (ACTION_UP): 0:(275.5306,538.45026)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(499.0,663.0)
+:Sending Touch (ACTION_UP): 0:(505.69003,681.26025)
+:Sending Touch (ACTION_DOWN): 0:(86.0,933.0)
+:Sending Touch (ACTION_UP): 0:(60.39685,935.6152)
+:Sending Touch (ACTION_DOWN): 0:(929.0,42.0)
+:Sending Touch (ACTION_UP): 0:(935.2535,47.41482)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(931.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(914.64575,1701.7942)
+:Sending Touch (ACTION_DOWN): 0:(167.0,1712.0)
+:Sending Touch (ACTION_UP): 0:(187.93277,1776.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(801.0,530.0)
+:Sending Touch (ACTION_UP): 0:(790.75006,525.3594)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2016-04-15 12:30:01.228  system_uptime:3375487]
+    // Sending event #1000
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(184.0,1741.0)
+:Sending Touch (ACTION_UP): 0:(305.945,1682.5433)
+:Sending Touch (ACTION_DOWN): 0:(885.0,1251.0)
+:Sending Touch (ACTION_UP): 0:(957.2129,1339.9086)
+:Sending Touch (ACTION_DOWN): 0:(19.0,656.0)
+:Sending Touch (ACTION_UP): 0:(32.86577,669.29895)
+:Sending Touch (ACTION_DOWN): 0:(251.0,1247.0)
+:Sending Touch (ACTION_UP): 0:(332.05276,1298.9658)
+:Sending Touch (ACTION_DOWN): 0:(637.0,299.0)
+:Sending Touch (ACTION_UP): 0:(669.4414,245.19539)
+:Sending Touch (ACTION_DOWN): 0:(131.0,786.0)
+:Sending Touch (ACTION_UP): 0:(147.0673,776.94385)
+:Sending Touch (ACTION_DOWN): 0:(716.0,221.0)
+:Sending Touch (ACTION_UP): 0:(726.3402,219.58736)
+:Sending Touch (ACTION_DOWN): 0:(914.0,1563.0)
+:Sending Touch (ACTION_UP): 0:(909.32196,1582.9563)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2016-04-15 12:30:01.585  system_uptime:3375844]
+    // Sending event #1100
+    //[calendar_time:2016-04-15 12:30:01.586  system_uptime:3375845]
+    // Sending event #1100
+:Sending Touch (ACTION_DOWN): 0:(287.0,230.0)
+:Sending Touch (ACTION_UP): 0:(244.14403,226.5112)
+:Sending Touch (ACTION_DOWN): 0:(571.0,1426.0)
+:Sending Touch (ACTION_UP): 0:(579.6792,1436.2546)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1726.0)
+:Sending Touch (ACTION_UP): 0:(494.73688,1747.6124)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(421.0,826.0)
+:Sending Touch (ACTION_UP): 0:(354.01477,792.4976)
+:Sending Touch (ACTION_DOWN): 0:(550.0,1451.0)
+:Sending Touch (ACTION_UP): 0:(542.8618,1450.7747)
+    //[calendar_time:2016-04-15 12:30:01.922  system_uptime:3376181]
+    // Sending event #1200
+    //[calendar_time:2016-04-15 12:30:01.923  system_uptime:3376182]
+    // Sending event #1200
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(343.0,293.0)
+:Sending Touch (ACTION_UP): 0:(328.16666,296.108)
+:Sending Touch (ACTION_DOWN): 0:(290.0,32.0)
+:Sending Touch (ACTION_UP): 0:(291.55328,29.2239)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(459.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(440.6289,1660.7426)
+:Sending Touch (ACTION_DOWN): 0:(701.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(707.4564,1219.859)
+:Sending Touch (ACTION_DOWN): 0:(804.0,1621.0)
+:Sending Touch (ACTION_UP): 0:(804.8447,1618.9438)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    //[calendar_time:2016-04-15 12:30:02.388  system_uptime:3376647]
+    // Sending event #1300
+    //[calendar_time:2016-04-15 12:30:02.389  system_uptime:3376648]
+    // Sending event #1300
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(573.0,928.0)
+:Sending Touch (ACTION_UP): 0:(437.06976,1001.83563)
+:Sending Touch (ACTION_DOWN): 0:(395.0,515.0)
+:Sending Touch (ACTION_UP): 0:(335.1612,486.01993)
+:Sending Touch (ACTION_DOWN): 0:(859.0,700.0)
+:Sending Touch (ACTION_UP): 0:(854.06683,705.40155)
+:Sending Touch (ACTION_DOWN): 0:(1050.0,1724.0)
+:Sending Touch (ACTION_UP): 0:(996.6803,1694.5985)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(982.0,283.0)
+:Sending Touch (ACTION_UP): 0:(981.5966,288.0388)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(536.0,139.0)
+:Sending Touch (ACTION_UP): 0:(542.166,121.98272)
+:Sending Touch (ACTION_DOWN): 0:(241.0,1235.0)
+:Sending Touch (ACTION_UP): 0:(236.47437,1192.4089)
+    //[calendar_time:2016-04-15 12:30:03.106  system_uptime:3377365]
+    // Sending event #1400
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(563.0,1245.0)
+:Sending Touch (ACTION_UP): 0:(571.0264,1201.5349)
+:Sending Touch (ACTION_DOWN): 0:(82.0,1555.0)
+:Sending Touch (ACTION_UP): 0:(70.28702,1605.2063)
+:Sending Touch (ACTION_DOWN): 0:(684.0,1201.0)
+:Sending Touch (ACTION_UP): 0:(731.2866,1214.4712)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(704.0,834.0)
+:Sending Touch (ACTION_UP): 0:(708.4404,831.273)
+:Sending Touch (ACTION_DOWN): 0:(781.0,1268.0)
+:Sending Touch (ACTION_UP): 0:(777.4863,1259.039)
+:Sending Touch (ACTION_DOWN): 0:(599.0,946.0)
+:Sending Touch (ACTION_UP): 0:(592.78973,947.39655)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2016-04-15 12:30:03.630  system_uptime:3377889]
+    // Sending event #1500
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(462.0,970.0)
+:Sending Touch (ACTION_UP): 0:(460.63477,962.1748)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(615.0,128.0)
+:Sending Touch (ACTION_UP): 0:(578.5849,110.98076)
+:Sending Touch (ACTION_DOWN): 0:(1001.0,1458.0)
+:Sending Touch (ACTION_UP): 0:(997.3746,1455.8259)
+:Sending Touch (ACTION_DOWN): 0:(658.0,571.0)
+:Sending Touch (ACTION_UP): 0:(710.65283,539.7344)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(979.0,879.0)
+:Sending Touch (ACTION_UP): 0:(893.43,805.5725)
+:Sending Touch (ACTION_DOWN): 0:(900.0,1455.0)
+    //[calendar_time:2016-04-15 12:30:04.240  system_uptime:3378499]
+    // Sending event #1600
+:Sending Touch (ACTION_UP): 0:(881.26306,1444.1332)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(457.0,1110.0)
+:Sending Touch (ACTION_UP): 0:(406.4487,1039.8627)
+:Sending Touch (ACTION_DOWN): 0:(790.0,1757.0)
+:Sending Touch (ACTION_UP): 0:(789.1606,1751.7457)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,1076.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1135.3412)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(1072.0642,1081.158)
+:Sending Touch (ACTION_DOWN): 0:(626.0,646.0)
+:Sending Touch (ACTION_UP): 0:(624.2317,645.7508)
+    //[calendar_time:2016-04-15 12:30:04.923  system_uptime:3379182]
+    // Sending event #1700
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(7.0,214.0)
+:Sending Touch (ACTION_UP): 0:(0.0,244.6526)
+:Sending Touch (ACTION_DOWN): 0:(696.0,605.0)
+:Sending Touch (ACTION_UP): 0:(708.85974,595.523)
+:Sending Touch (ACTION_DOWN): 0:(260.0,295.0)
+:Sending Touch (ACTION_UP): 0:(264.6796,288.2029)
+:Sending Touch (ACTION_DOWN): 0:(327.0,924.0)
+:Sending Touch (ACTION_UP): 0:(220.30243,921.14545)
+:Sending Touch (ACTION_DOWN): 0:(102.0,1465.0)
+:Sending Touch (ACTION_UP): 0:(115.50969,1458.8475)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(439.0,169.0)
+:Sending Touch (ACTION_UP): 0:(445.41162,190.32042)
+:Sending Touch (ACTION_DOWN): 0:(164.0,495.0)
+:Sending Touch (ACTION_UP): 0:(154.83638,490.68716)
+:Sending Touch (ACTION_DOWN): 0:(784.0,878.0)
+:Sending Touch (ACTION_UP): 0:(785.70465,892.3526)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    //[calendar_time:2016-04-15 12:30:05.397  system_uptime:3379656]
+    // Sending event #1800
+    //[calendar_time:2016-04-15 12:30:05.397  system_uptime:3379656]
+    // Sending event #1800
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(882.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(861.274,988.04083)
+:Sending Touch (ACTION_DOWN): 0:(9.0,1674.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1675.3584)
+:Sending Touch (ACTION_DOWN): 0:(702.0,897.0)
+:Sending Touch (ACTION_UP): 0:(700.25323,893.1706)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(184.0,643.0)
+:Sending Touch (ACTION_UP): 0:(166.66827,645.7768)
+:Sending Touch (ACTION_DOWN): 0:(859.0,823.0)
+:Sending Touch (ACTION_UP): 0:(858.5646,823.5492)
+:Sending Touch (ACTION_DOWN): 0:(405.0,1499.0)
+:Sending Touch (ACTION_UP): 0:(388.42096,1441.8741)
+:Sending Touch (ACTION_DOWN): 0:(190.0,1666.0)
+:Sending Touch (ACTION_UP): 0:(178.4638,1664.2516)
+:Sending Touch (ACTION_DOWN): 0:(947.0,230.0)
+:Sending Touch (ACTION_UP): 0:(964.5832,221.97075)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(478.0,1666.0)
+:Sending Touch (ACTION_UP): 0:(475.9994,1675.2582)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2016-04-15 12:30:05.741  system_uptime:3380000]
+    // Sending event #1900
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(307.0,757.0)
+:Sending Touch (ACTION_UP): 0:(329.2221,756.63257)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(490.0,857.0)
+:Sending Touch (ACTION_UP): 0:(472.08163,882.86615)
+:Sending Touch (ACTION_DOWN): 0:(371.0,1472.0)
+:Sending Touch (ACTION_UP): 0:(352.0628,1483.563)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(19.0,1247.0)
+:Sending Touch (ACTION_UP): 0:(14.68824,1250.8766)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2016-04-15 12:30:06.165  system_uptime:3380424]
+    // Sending event #2000
+:Sending Touch (ACTION_DOWN): 0:(544.0,1219.0)
+:Sending Touch (ACTION_UP): 0:(548.70636,1252.8215)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(767.0,916.0)
+:Sending Touch (ACTION_UP): 0:(768.6346,916.42645)
+:Sending Touch (ACTION_DOWN): 0:(115.0,1487.0)
+:Sending Touch (ACTION_UP): 0:(141.45726,1499.2319)
+:Sending Touch (ACTION_DOWN): 0:(897.0,1467.0)
+:Sending Touch (ACTION_UP): 0:(891.3564,1460.4489)
+:Sending Touch (ACTION_DOWN): 0:(1043.0,1096.0)
+:Sending Touch (ACTION_UP): 0:(1047.1307,1095.9384)
+:Sending Touch (ACTION_DOWN): 0:(297.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(278.32623,1390.6451)
+:Sending Touch (ACTION_DOWN): 0:(519.0,313.0)
+:Sending Touch (ACTION_UP): 0:(469.55148,298.64896)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(218.0,51.0)
+:Sending Touch (ACTION_UP): 0:(210.34229,54.787308)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(508.0,927.0)
+:Sending Touch (ACTION_UP): 0:(495.73718,916.0336)
+:Sending Touch (ACTION_DOWN): 0:(436.0,1689.0)
+    //[calendar_time:2016-04-15 12:30:06.808  system_uptime:3381067]
+    // Sending event #2100
+:Sending Touch (ACTION_UP): 0:(527.5483,1708.7794)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(486.0,1621.0)
+:Sending Touch (ACTION_UP): 0:(486.1786,1637.1532)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(541.0,817.0)
+:Sending Touch (ACTION_UP): 0:(508.56766,689.02106)
+:Sending Touch (ACTION_DOWN): 0:(470.0,204.0)
+:Sending Touch (ACTION_UP): 0:(476.41586,202.62611)
+:Sending Touch (ACTION_DOWN): 0:(238.0,1589.0)
+:Sending Touch (ACTION_UP): 0:(246.99634,1592.2487)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(38.0,550.0)
+:Sending Touch (ACTION_UP): 0:(47.815754,560.2164)
+:Sending Touch (ACTION_DOWN): 0:(350.0,537.0)
+:Sending Touch (ACTION_UP): 0:(330.17697,545.0553)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    //[calendar_time:2016-04-15 12:30:07.311  system_uptime:3381570]
+    // Sending event #2200
+:Sending Touch (ACTION_DOWN): 0:(964.0,656.0)
+:Sending Touch (ACTION_UP): 0:(1043.6604,707.2947)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(237.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(290.63425,1117.5413)
+:Sending Touch (ACTION_DOWN): 0:(170.0,757.0)
+:Sending Touch (ACTION_UP): 0:(169.42914,776.93744)
+:Sending Touch (ACTION_DOWN): 0:(64.0,732.0)
+:Sending Touch (ACTION_UP): 0:(112.08924,719.2234)
+:Sending Touch (ACTION_DOWN): 0:(94.0,1772.0)
+:Sending Touch (ACTION_UP): 0:(101.47061,1772.4011)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(258.0,527.0)
+:Sending Touch (ACTION_UP): 0:(255.16321,536.7717)
+:Sending Touch (ACTION_DOWN): 0:(271.0,786.0)
+:Sending Touch (ACTION_UP): 0:(167.39792,707.9175)
+:Sending Touch (ACTION_DOWN): 0:(45.0,56.0)
+:Sending Touch (ACTION_UP): 0:(46.02055,58.512005)
+    //[calendar_time:2016-04-15 12:30:07.618  system_uptime:3381877]
+    // Sending event #2300
+    //[calendar_time:2016-04-15 12:30:07.618  system_uptime:3381877]
+    // Sending event #2300
+:Sending Touch (ACTION_DOWN): 0:(615.0,837.0)
+:Sending Touch (ACTION_UP): 0:(623.92426,864.81573)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(310.0,488.0)
+:Sending Touch (ACTION_UP): 0:(311.3275,505.067)
+:Sending Touch (ACTION_DOWN): 0:(25.0,1204.0)
+:Sending Touch (ACTION_UP): 0:(27.065556,1216.065)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(307.0,870.0)
+:Sending Touch (ACTION_UP): 0:(220.25839,796.712)
+:Sending Touch (ACTION_DOWN): 0:(765.0,1440.0)
+:Sending Touch (ACTION_UP): 0:(713.9053,1455.2765)
+:Sending Touch (ACTION_DOWN): 0:(798.0,1769.0)
+:Sending Touch (ACTION_UP): 0:(872.8214,1759.5687)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+    //[calendar_time:2016-04-15 12:30:08.062  system_uptime:3382322]
+    // Sending event #2400
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(342.0,379.0)
+:Sending Touch (ACTION_UP): 0:(341.9705,374.2998)
+:Sending Touch (ACTION_DOWN): 0:(39.0,1156.0)
+:Sending Touch (ACTION_UP): 0:(45.002903,1143.3145)
+:Sending Touch (ACTION_DOWN): 0:(807.0,1390.0)
+:Sending Touch (ACTION_UP): 0:(815.8602,1435.0135)
+:Sending Touch (ACTION_DOWN): 0:(1079.0,186.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,186.73584)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,1489.0)
+:Sending Touch (ACTION_UP): 0:(1042.5172,1485.2792)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,409.0)
+:Sending Touch (ACTION_UP): 0:(1039.6125,404.28806)
+:Sending Touch (ACTION_DOWN): 0:(650.0,1332.0)
+:Sending Touch (ACTION_UP): 0:(694.8245,1345.1859)
+:Sending Touch (ACTION_DOWN): 0:(674.0,634.0)
+:Sending Touch (ACTION_UP): 0:(670.212,619.9654)
+:Sending Touch (ACTION_DOWN): 0:(777.0,1132.0)
+:Sending Touch (ACTION_UP): 0:(773.8005,1112.8412)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,663.0)
+    //[calendar_time:2016-04-15 12:30:09.252  system_uptime:3383511]
+    // Sending event #2500
+:Sending Touch (ACTION_UP): 0:(968.2814,637.0195)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(1050.0,915.0)
+:Sending Touch (ACTION_UP): 0:(1037.3147,914.04376)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(1003.0,1759.0)
+:Sending Touch (ACTION_UP): 0:(1003.2225,1776.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(231.0,416.0)
+:Sending Touch (ACTION_UP): 0:(189.01717,436.02176)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(723.0,1552.0)
+:Sending Touch (ACTION_UP): 0:(720.8896,1553.6941)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(213.0,700.0)
+:Sending Touch (ACTION_UP): 0:(210.5356,716.5828)
+:Sending Touch (ACTION_DOWN): 0:(535.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(535.0775,1171.4073)
+:Sending Touch (ACTION_DOWN): 0:(185.0,77.0)
+:Sending Touch (ACTION_UP): 0:(187.82362,80.91123)
+:Sending Touch (ACTION_DOWN): 0:(1017.0,1237.0)
+:Sending Touch (ACTION_UP): 0:(1007.916,1241.4546)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(595.0,479.0)
+:Sending Touch (ACTION_UP): 0:(593.7816,479.9005)
+:Sending Touch (ACTION_DOWN): 0:(59.0,1450.0)
+:Sending Touch (ACTION_UP): 0:(56.80095,1448.5231)
+:Sending Touch (ACTION_DOWN): 0:(918.0,586.0)
+:Sending Touch (ACTION_UP): 0:(918.68243,583.8654)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2016-04-15 12:30:10.421  system_uptime:3384680]
+    // Sending event #2600
+:Sending Touch (ACTION_DOWN): 0:(964.0,1013.0)
+:Sending Touch (ACTION_UP): 0:(964.43243,1013.0303)
+:Sending Touch (ACTION_DOWN): 0:(158.0,1515.0)
+:Sending Touch (ACTION_UP): 0:(164.702,1511.8627)
+:Sending Touch (ACTION_DOWN): 0:(903.0,1063.0)
+:Sending Touch (ACTION_UP): 0:(903.6159,1113.7653)
+:Sending Touch (ACTION_DOWN): 0:(435.0,1297.0)
+:Sending Touch (ACTION_UP): 0:(445.08878,1274.0962)
+:Sending Touch (ACTION_DOWN): 0:(499.0,666.0)
+:Sending Touch (ACTION_UP): 0:(511.2669,669.4046)
+:Sending Touch (ACTION_DOWN): 0:(901.0,848.0)
+:Sending Touch (ACTION_UP): 0:(884.7144,846.24286)
+:Sending Touch (ACTION_DOWN): 0:(823.0,694.0)
+:Sending Touch (ACTION_UP): 0:(804.3533,692.8342)
+:Sending Touch (ACTION_DOWN): 0:(49.0,433.0)
+:Sending Touch (ACTION_UP): 0:(33.2686,424.64258)
+:Sending Touch (ACTION_DOWN): 0:(988.0,1243.0)
+:Sending Touch (ACTION_UP): 0:(1011.24963,1230.4336)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2016-04-15 12:30:10.880  system_uptime:3385139]
+    // Sending event #2700
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(699.0,405.0)
+:Sending Touch (ACTION_UP): 0:(719.4944,389.77213)
+:Sending Touch (ACTION_DOWN): 0:(619.0,1531.0)
+:Sending Touch (ACTION_UP): 0:(625.6863,1548.7062)
+:Sending Touch (ACTION_DOWN): 0:(701.0,1425.0)
+:Sending Touch (ACTION_UP): 0:(704.65356,1422.9254)
+:Sending Touch (ACTION_DOWN): 0:(116.0,801.0)
+:Sending Touch (ACTION_UP): 0:(133.38956,803.54694)
+:Sending Touch (ACTION_DOWN): 0:(399.0,1313.0)
+:Sending Touch (ACTION_UP): 0:(359.8327,1349.1991)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(702.0,1283.0)
+:Sending Touch (ACTION_UP): 0:(716.0602,1318.6222)
+:Sending Touch (ACTION_DOWN): 0:(173.0,332.0)
+:Sending Touch (ACTION_UP): 0:(246.86453,382.6836)
+:Sending Touch (ACTION_DOWN): 0:(620.0,418.0)
+:Sending Touch (ACTION_UP): 0:(629.7618,483.32306)
+    //[calendar_time:2016-04-15 12:30:11.269  system_uptime:3385528]
+    // Sending event #2800
+    //[calendar_time:2016-04-15 12:30:11.269  system_uptime:3385528]
+    // Sending event #2800
+:Sending Touch (ACTION_DOWN): 0:(846.0,340.0)
+:Sending Touch (ACTION_UP): 0:(844.71075,339.23837)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(962.0,1169.0)
+:Sending Touch (ACTION_UP): 0:(954.5783,1153.1652)
+:Sending Touch (ACTION_DOWN): 0:(715.0,1262.0)
+:Sending Touch (ACTION_UP): 0:(715.5116,1265.3403)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(846.0,814.0)
+:Sending Touch (ACTION_UP): 0:(843.30035,815.83075)
+:Sending Touch (ACTION_DOWN): 0:(554.0,375.0)
+:Sending Touch (ACTION_UP): 0:(556.3756,376.26324)
+:Sending Touch (ACTION_DOWN): 0:(748.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(760.18524,1339.2404)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Touch (ACTION_DOWN): 0:(514.0,29.0)
+:Sending Touch (ACTION_UP): 0:(430.47055,45.20407)
+:Sending Touch (ACTION_DOWN): 0:(2.0,551.0)
+:Sending Touch (ACTION_UP): 0:(19.32361,561.91656)
+:Sending Touch (ACTION_DOWN): 0:(733.0,849.0)
+:Sending Touch (ACTION_UP): 0:(718.1192,854.24384)
+:Sending Touch (ACTION_DOWN): 0:(793.0,1236.0)
+    //[calendar_time:2016-04-15 12:30:12.046  system_uptime:3386305]
+    // Sending event #2900
+:Sending Touch (ACTION_UP): 0:(883.59717,1147.8975)
+:Sending Touch (ACTION_DOWN): 0:(581.0,631.0)
+:Sending Touch (ACTION_UP): 0:(529.4607,510.1976)
+:Sending Touch (ACTION_DOWN): 0:(1030.0,410.0)
+:Sending Touch (ACTION_UP): 0:(1041.6831,397.10233)
+:Sending Touch (ACTION_DOWN): 0:(963.0,64.0)
+:Sending Touch (ACTION_UP): 0:(925.02435,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(732.0,950.0)
+:Sending Touch (ACTION_UP): 0:(727.2932,955.9125)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(41.0,1107.0)
+:Sending Touch (ACTION_UP): 0:(36.559868,1185.793)
+:Sending Touch (ACTION_DOWN): 0:(504.0,107.0)
+:Sending Touch (ACTION_UP): 0:(502.3622,110.458664)
+:Sending Touch (ACTION_DOWN): 0:(1079.0,585.0)
+:Sending Touch (ACTION_UP): 0:(1076.2555,589.7476)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+    //[calendar_time:2016-04-15 12:30:12.890  system_uptime:3387149]
+    // Sending event #3000
+:Sending Touch (ACTION_DOWN): 0:(135.0,1258.0)
+:Sending Touch (ACTION_UP): 0:(29.377905,1421.756)
+:Sending Touch (ACTION_DOWN): 0:(619.0,1176.0)
+:Sending Touch (ACTION_UP): 0:(623.26715,1168.6573)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1042.0,956.0)
+:Sending Touch (ACTION_UP): 0:(1040.7172,954.2117)
+:Sending Touch (ACTION_DOWN): 0:(481.0,1085.0)
+:Sending Touch (ACTION_UP): 0:(485.84885,1091.741)
+:Sending Touch (ACTION_DOWN): 0:(1039.0,1631.0)
+:Sending Touch (ACTION_UP): 0:(1038.3081,1630.2168)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(163.0,1696.0)
+:Sending Touch (ACTION_UP): 0:(169.26523,1698.7449)
+:Sending Touch (ACTION_DOWN): 0:(643.0,877.0)
+:Sending Touch (ACTION_UP): 0:(585.9142,891.1054)
+:Sending Touch (ACTION_DOWN): 0:(978.0,1263.0)
+:Sending Touch (ACTION_UP): 0:(975.87524,1261.0121)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1409.0)
+:Sending Touch (ACTION_UP): 0:(262.2857,1399.1149)
+:Sending Touch (ACTION_DOWN): 0:(774.0,790.0)
+:Sending Touch (ACTION_UP): 0:(789.19,753.6416)
+:Sending Touch (ACTION_DOWN): 0:(155.0,1466.0)
+    //[calendar_time:2016-04-15 12:30:13.261  system_uptime:3387520]
+    // Sending event #3100
+:Sending Touch (ACTION_UP): 0:(154.88312,1547.8203)
+    // Rejecting start of Intent { act=com.android.systemui.recents.SHOW_RECENTS cmp=com.android.systemui/.recents.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(794.0,366.0)
+:Sending Touch (ACTION_UP): 0:(812.1848,369.4919)
+:Sending Flip keyboardOpen=false
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(781.0,196.0)
+:Sending Touch (ACTION_UP): 0:(781.6388,194.22629)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(826.0,50.0)
+:Sending Touch (ACTION_UP): 0:(811.11505,29.690998)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1283.0)
+:Sending Touch (ACTION_UP): 0:(84.43378,1282.8916)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(267.0,667.0)
+:Sending Touch (ACTION_UP): 0:(264.26688,668.0708)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(764.0,399.0)
+:Sending Touch (ACTION_UP): 0:(775.68256,392.9762)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    //[calendar_time:2016-04-15 12:30:14.472  system_uptime:3388731]
+    // Sending event #3200
+:Sending Touch (ACTION_DOWN): 0:(989.0,1677.0)
+:Sending Touch (ACTION_UP): 0:(972.078,1662.758)
+:Sending Touch (ACTION_DOWN): 0:(566.0,1280.0)
+:Sending Touch (ACTION_UP): 0:(603.5308,1271.1453)
+:Sending Touch (ACTION_DOWN): 0:(439.0,472.0)
+:Sending Touch (ACTION_UP): 0:(332.5512,393.22504)
+:Sending Touch (ACTION_DOWN): 0:(980.0,35.0)
+:Sending Touch (ACTION_UP): 0:(958.37354,43.181263)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(956.0,1601.0)
+:Sending Touch (ACTION_UP): 0:(943.68787,1599.8684)
+    //[calendar_time:2016-04-15 12:30:14.936  system_uptime:3389195]
+    // Sending event #3300
+    //[calendar_time:2016-04-15 12:30:14.937  system_uptime:3389196]
+    // Sending event #3300
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(974.0,68.0)
+:Sending Touch (ACTION_UP): 0:(888.37384,107.14219)
+:Sending Touch (ACTION_DOWN): 0:(1019.0,1207.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1255.7399)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(774.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(687.66425,1402.287)
+:Sending Touch (ACTION_DOWN): 0:(873.0,1638.0)
+:Sending Touch (ACTION_UP): 0:(874.38,1645.2411)
+:Sending Touch (ACTION_DOWN): 0:(591.0,914.0)
+:Sending Touch (ACTION_UP): 0:(592.34735,914.73755)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=content://media/external/images/media/81 typ=image/png cmp=com.android.gallery/com.android.camera.ViewImage } in package com.android.gallery
+:Sending Touch (ACTION_DOWN): 0:(1073.0,1279.0)
+:Sending Touch (ACTION_UP): 0:(1033.3893,1266.9629)
+:Sending Touch (ACTION_DOWN): 0:(651.0,207.0)
+:Sending Touch (ACTION_UP): 0:(622.78107,132.9302)
+    //[calendar_time:2016-04-15 12:30:16.601  system_uptime:3390860]
+    // Sending event #3400
+:Sending Touch (ACTION_DOWN): 0:(531.0,1654.0)
+:Sending Touch (ACTION_UP): 0:(543.71173,1654.8063)
+:Sending Touch (ACTION_DOWN): 0:(679.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(704.961,1690.3304)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(119.0,468.0)
+:Sending Touch (ACTION_UP): 0:(57.604576,419.37488)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(95.0,461.0)
+:Sending Touch (ACTION_UP): 0:(109.79552,470.98737)
+:Sending Touch (ACTION_DOWN): 0:(390.0,1381.0)
+:Sending Touch (ACTION_UP): 0:(390.02115,1378.4341)
+:Sending Touch (ACTION_DOWN): 0:(703.0,1726.0)
+:Sending Touch (ACTION_UP): 0:(687.73425,1739.3937)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+    //[calendar_time:2016-04-15 12:30:17.084  system_uptime:3391343]
+    // Sending event #3500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(38.0,1182.0)
+:Sending Touch (ACTION_UP): 0:(55.999874,1181.8295)
+:Sending Touch (ACTION_DOWN): 0:(700.0,639.0)
+:Sending Touch (ACTION_UP): 0:(748.2582,555.7745)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(718.0,887.0)
+:Sending Touch (ACTION_UP): 0:(693.45825,873.07574)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(276.0,342.0)
+:Sending Touch (ACTION_UP): 0:(276.1959,344.22092)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(144.0,164.0)
+:Sending Touch (ACTION_UP): 0:(147.45374,158.13261)
+:Sending Touch (ACTION_DOWN): 0:(1036.0,286.0)
+    //[calendar_time:2016-04-15 12:30:17.450  system_uptime:3391709]
+    // Sending event #3600
+:Sending Touch (ACTION_UP): 0:(1042.4384,272.75275)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(385.0,940.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(425.7816,909.757)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(953.0,172.0)
+:Sending Touch (ACTION_UP): 0:(959.11676,164.73637)
+:Sending Touch (ACTION_DOWN): 0:(899.0,1678.0)
+:Sending Touch (ACTION_UP): 0:(900.7655,1671.9932)
+:Sending Touch (ACTION_DOWN): 0:(565.0,1330.0)
+:Sending Touch (ACTION_UP): 0:(486.57294,1476.1732)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(494.0,606.0)
+:Sending Touch (ACTION_UP): 0:(485.10333,609.7947)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(901.0,1438.0)
+:Sending Touch (ACTION_UP): 0:(904.5136,1438.3613)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(993.0,780.0)
+:Sending Touch (ACTION_UP): 0:(966.7889,780.38715)
+    //[calendar_time:2016-04-15 12:30:18.744  system_uptime:3393003]
+    // Sending event #3700
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(741.0,1549.0)
+:Sending Touch (ACTION_UP): 0:(652.6501,1594.0366)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(585.0,855.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(583.7827,854.82574)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(906.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(912.1613,1370.3387)
+:Sending Touch (ACTION_DOWN): 0:(981.0,1282.0)
+:Sending Touch (ACTION_UP): 0:(980.71234,1296.6672)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+    //[calendar_time:2016-04-15 12:30:20.061  system_uptime:3394320]
+    // Sending event #3800
+:Sending Touch (ACTION_DOWN): 0:(71.0,1210.0)
+:Sending Touch (ACTION_UP): 0:(92.516426,1239.4847)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(391.0,510.0)
+:Sending Touch (ACTION_UP): 0:(391.41702,504.63388)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(526.0,1191.0)
+:Sending Touch (ACTION_UP): 0:(526.76526,1201.8741)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(323.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(361.44702,1229.746)
+:Sending Touch (ACTION_DOWN): 0:(15.0,510.0)
+:Sending Touch (ACTION_UP): 0:(10.884314,507.8464)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(992.0,117.0)
+:Sending Touch (ACTION_UP): 0:(991.9656,116.479774)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(247.0,499.0)
+    //[calendar_time:2016-04-15 12:30:20.428  system_uptime:3394687]
+    // Sending event #3900
+:Sending Touch (ACTION_UP): 0:(263.83636,568.44336)
+:Sending Touch (ACTION_DOWN): 0:(42.0,880.0)
+:Sending Touch (ACTION_UP): 0:(49.634544,871.4362)
+:Sending Touch (ACTION_DOWN): 0:(90.0,11.0)
+:Sending Touch (ACTION_UP): 0:(71.17288,22.82077)
+:Sending Touch (ACTION_DOWN): 0:(1034.0,85.0)
+:Sending Touch (ACTION_UP): 0:(1018.3696,85.35071)
+:Sending Touch (ACTION_DOWN): 0:(35.0,936.0)
+:Sending Touch (ACTION_UP): 0:(143.92162,843.1448)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(237.0,50.0)
+:Sending Touch (ACTION_UP): 0:(273.03732,122.87279)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(617.0,1586.0)
+:Sending Touch (ACTION_UP): 0:(592.9216,1580.0457)
+:Sending Touch (ACTION_DOWN): 0:(470.0,1579.0)
+:Sending Touch (ACTION_UP): 0:(468.3516,1582.5511)
+:Sending Touch (ACTION_DOWN): 0:(515.0,1003.0)
+:Sending Touch (ACTION_UP): 0:(502.55945,1004.5738)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+    //[calendar_time:2016-04-15 12:30:20.915  system_uptime:3395175]
+    // Sending event #4000
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(300.0,1533.0)
+:Sending Touch (ACTION_UP): 0:(310.54803,1535.2845)
+:Sending Touch (ACTION_DOWN): 0:(222.0,1323.0)
+:Sending Touch (ACTION_UP): 0:(219.96631,1323.7661)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(37.0,1391.0)
+:Sending Touch (ACTION_UP): 0:(20.558542,1389.0729)
+:Sending Touch (ACTION_DOWN): 0:(750.0,1362.0)
+:Sending Touch (ACTION_UP): 0:(671.36255,1437.7102)
+:Sending Touch (ACTION_DOWN): 0:(272.0,65.0)
+:Sending Touch (ACTION_UP): 0:(284.87903,56.762028)
+:Sending Touch (ACTION_DOWN): 0:(703.0,156.0)
+:Sending Touch (ACTION_UP): 0:(713.4485,162.13698)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,290.0)
+:Sending Touch (ACTION_UP): 0:(1077.6655,226.35294)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+    //[calendar_time:2016-04-15 12:30:21.711  system_uptime:3395970]
+    // Sending event #4100
+:Sending Touch (ACTION_DOWN): 0:(360.0,333.0)
+:Sending Touch (ACTION_UP): 0:(359.17014,332.3139)
+:Sending Touch (ACTION_DOWN): 0:(902.0,1581.0)
+:Sending Touch (ACTION_UP): 0:(901.3587,1573.543)
+:Sending Touch (ACTION_DOWN): 0:(969.0,157.0)
+:Sending Touch (ACTION_UP): 0:(1017.98315,186.88873)
+:Sending Touch (ACTION_DOWN): 0:(80.0,526.0)
+:Sending Touch (ACTION_UP): 0:(44.275833,524.67993)
+:Sending Touch (ACTION_DOWN): 0:(669.0,893.0)
+:Sending Touch (ACTION_UP): 0:(673.4958,884.0991)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,1684.0)
+:Sending Touch (ACTION_UP): 0:(1013.0334,1681.7363)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(240.0,1681.0)
+:Sending Touch (ACTION_UP): 0:(228.77768,1693.5845)
+:Sending Touch (ACTION_DOWN): 0:(33.0,828.0)
+:Sending Touch (ACTION_UP): 0:(32.37049,841.83746)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(728.0,1519.0)
+:Sending Touch (ACTION_UP): 0:(682.6166,1553.659)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2016-04-15 12:30:22.443  system_uptime:3396702]
+    // Sending event #4200
+:Sending Touch (ACTION_DOWN): 0:(695.0,496.0)
+:Sending Touch (ACTION_UP): 0:(691.9207,435.3132)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(836.0,435.0)
+:Sending Touch (ACTION_UP): 0:(834.9965,437.46658)
+:Sending Touch (ACTION_DOWN): 0:(575.0,732.0)
+:Sending Touch (ACTION_UP): 0:(568.7856,737.0957)
+:Sending Touch (ACTION_DOWN): 0:(514.0,421.0)
+:Sending Touch (ACTION_UP): 0:(530.21075,369.44412)
+:Sending Touch (ACTION_DOWN): 0:(381.0,1454.0)
+:Sending Touch (ACTION_UP): 0:(384.2666,1457.0712)
+:Sending Touch (ACTION_DOWN): 0:(1049.0,1298.0)
+:Sending Touch (ACTION_UP): 0:(1037.1208,1322.9917)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(426.0,155.0)
+:Sending Touch (ACTION_UP): 0:(426.1855,153.59769)
+:Sending Touch (ACTION_DOWN): 0:(855.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(856.8009,1222.5288)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(71.0,945.0)
+:Sending Touch (ACTION_UP): 0:(48.43891,936.2563)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(448.0,1598.0)
+:Sending Touch (ACTION_UP): 0:(452.57446,1598.294)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    //[calendar_time:2016-04-15 12:30:23.675  system_uptime:3397934]
+    // Sending event #4300
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(270.0,443.0)
+:Sending Touch (ACTION_UP): 0:(268.7388,413.03757)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(374.0,770.0)
+:Sending Touch (ACTION_UP): 0:(364.47943,768.10236)
+:Sending Touch (ACTION_DOWN): 0:(705.0,1250.0)
+:Sending Touch (ACTION_UP): 0:(748.31195,1256.6593)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,517.0)
+:Sending Touch (ACTION_UP): 0:(1064.6635,527.7498)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1025.0,1421.0)
+:Sending Touch (ACTION_UP): 0:(1039.9944,1429.6722)
+:Sending Touch (ACTION_DOWN): 0:(258.0,68.0)
+:Sending Touch (ACTION_UP): 0:(228.80914,91.839165)
+:Sending Touch (ACTION_DOWN): 0:(19.0,1476.0)
+:Sending Touch (ACTION_UP): 0:(17.006987,1519.0194)
+:Sending Touch (ACTION_DOWN): 0:(420.0,672.0)
+    //[calendar_time:2016-04-15 12:30:24.119  system_uptime:3398381]
+    // Sending event #4400
+:Sending Touch (ACTION_UP): 0:(331.41693,629.01013)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(230.0,1322.0)
+:Sending Touch (ACTION_UP): 0:(242.65916,1318.5256)
+:Sending Touch (ACTION_DOWN): 0:(471.0,512.0)
+:Sending Touch (ACTION_UP): 0:(450.16425,500.7091)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(791.0,57.0)
+:Sending Touch (ACTION_UP): 0:(790.9872,71.583984)
+:Sending Touch (ACTION_DOWN): 0:(474.0,1382.0)
+:Sending Touch (ACTION_UP): 0:(474.07587,1381.7833)
+:Sending Touch (ACTION_DOWN): 0:(31.0,1198.0)
+:Sending Touch (ACTION_UP): 0:(23.872416,1199.8779)
+:Sending Touch (ACTION_DOWN): 0:(434.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(465.9962,1659.2948)
+:Sending Touch (ACTION_DOWN): 0:(138.0,54.0)
+:Sending Touch (ACTION_UP): 0:(251.02872,125.748184)
+:Sending Touch (ACTION_DOWN): 0:(956.0,1265.0)
+:Sending Touch (ACTION_UP): 0:(928.35925,1227.6099)
+    //[calendar_time:2016-04-15 12:30:25.225  system_uptime:3399485]
+    // Sending event #4500
+    //[calendar_time:2016-04-15 12:30:25.226  system_uptime:3399485]
+    // Sending event #4500
+:Sending Touch (ACTION_DOWN): 0:(102.0,978.0)
+:Sending Touch (ACTION_UP): 0:(141.93904,1035.5764)
+:Sending Touch (ACTION_DOWN): 0:(1022.0,1710.0)
+:Sending Touch (ACTION_UP): 0:(1056.4927,1584.1447)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,260.0)
+:Sending Touch (ACTION_UP): 0:(1062.9808,260.7319)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(245.0,1045.0)
+    //[calendar_time:2016-04-15 12:30:25.518  system_uptime:3399777]
+    // Sending event #4600
+:Sending Touch (ACTION_UP): 0:(237.77867,1083.0017)
+:Sending Touch (ACTION_DOWN): 0:(451.0,93.0)
+:Sending Touch (ACTION_UP): 0:(419.36722,174.6655)
+:Sending Touch (ACTION_DOWN): 0:(332.0,655.0)
+:Sending Touch (ACTION_UP): 0:(331.47305,652.7593)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(469.0,156.0)
+:Sending Touch (ACTION_UP): 0:(460.1743,154.88182)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(141.0,937.0)
+:Sending Touch (ACTION_UP): 0:(209.69699,909.8745)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2016-04-15 12:30:25.799  system_uptime:3400058]
+    // Sending event #4700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(151.0,295.0)
+:Sending Touch (ACTION_UP): 0:(154.98854,315.22897)
+:Sending Touch (ACTION_DOWN): 0:(15.0,646.0)
+:Sending Touch (ACTION_UP): 0:(0.0,664.4661)
+:Sending Touch (ACTION_DOWN): 0:(651.0,638.0)
+:Sending Touch (ACTION_UP): 0:(662.9502,632.72235)
+:Sending Touch (ACTION_DOWN): 0:(146.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(138.304,1144.4012)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(888.0,1411.0)
+:Sending Touch (ACTION_UP): 0:(878.78754,1446.4719)
+:Sending Touch (ACTION_DOWN): 0:(631.0,82.0)
+:Sending Touch (ACTION_UP): 0:(625.0068,85.54286)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(572.0,757.0)
+:Sending Touch (ACTION_UP): 0:(591.09406,776.577)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2016-04-15 12:30:26.219  system_uptime:3400478]
+    // Sending event #4800
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(100.0,185.0)
+:Sending Touch (ACTION_UP): 0:(88.75887,186.16608)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.POWER_USAGE_SUMMARY cmp=com.android.settings/.Settings$PowerUsageSummaryActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(1004.0,1241.0)
+:Sending Touch (ACTION_UP): 0:(1014.1292,1240.2709)
+:Sending Touch (ACTION_DOWN): 0:(135.0,471.0)
+:Sending Touch (ACTION_UP): 0:(147.57446,470.83597)
+:Sending Touch (ACTION_DOWN): 0:(1010.0,747.0)
+:Sending Touch (ACTION_UP): 0:(1002.46893,749.5536)
+:Sending Touch (ACTION_DOWN): 0:(51.0,678.0)
+:Sending Touch (ACTION_UP): 0:(140.235,729.6834)
+:Sending Touch (ACTION_DOWN): 0:(943.0,655.0)
+:Sending Touch (ACTION_UP): 0:(957.0154,656.20215)
+:Sending Touch (ACTION_DOWN): 0:(421.0,1173.0)
+:Sending Touch (ACTION_UP): 0:(431.83334,1221.8965)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(823.0,653.0)
+:Sending Touch (ACTION_UP): 0:(801.302,652.623)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(817.0,896.0)
+:Sending Touch (ACTION_UP): 0:(821.02716,890.4461)
+    //[calendar_time:2016-04-15 12:30:26.585  system_uptime:3400844]
+    // Sending event #4900
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(814.0,1442.0)
+:Sending Touch (ACTION_UP): 0:(814.82104,1451.9155)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(999.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(989.46295,1072.4534)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(487.0,356.0)
+:Sending Touch (ACTION_UP): 0:(499.0866,357.73392)
+:Sending Touch (ACTION_DOWN): 0:(622.0,85.0)
+:Sending Touch (ACTION_UP): 0:(625.529,81.92086)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+    // Rejecting start of Intent { act=android.intent.action.POWER_USAGE_SUMMARY cmp=com.android.settings/.Settings$PowerUsageSummaryActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(363.0,1266.0)
+:Sending Touch (ACTION_UP): 0:(380.48987,1175.2838)
+:Sending Touch (ACTION_DOWN): 0:(608.0,212.0)
+:Sending Touch (ACTION_UP): 0:(603.53595,199.1425)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2016-04-15 12:30:27.175  system_uptime:3401434]
+    // Sending event #5000
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(607.0,386.0)
+:Sending Touch (ACTION_UP): 0:(664.0462,386.5374)
+:Sending Touch (ACTION_DOWN): 0:(928.0,1677.0)
+:Sending Touch (ACTION_UP): 0:(925.6373,1674.6838)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(563.0,1102.0)
+:Sending Touch (ACTION_UP): 0:(558.8029,1100.6261)
+:Sending Touch (ACTION_DOWN): 0:(103.0,688.0)
+:Sending Touch (ACTION_UP): 0:(112.26442,684.6939)
+:Sending Touch (ACTION_DOWN): 0:(510.0,400.0)
+:Sending Touch (ACTION_UP): 0:(521.0644,397.02362)
+:Sending Touch (ACTION_DOWN): 0:(458.0,846.0)
+:Sending Touch (ACTION_UP): 0:(434.51434,909.798)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(881.0,1645.0)
+    //[calendar_time:2016-04-15 12:30:27.823  system_uptime:3402082]
+    // Sending event #5100
+:Sending Touch (ACTION_UP): 0:(892.40814,1750.5544)
+:Sending Touch (ACTION_DOWN): 0:(985.0,73.0)
+:Sending Touch (ACTION_UP): 0:(1076.8867,23.417679)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(643.0,1489.0)
+:Sending Touch (ACTION_UP): 0:(654.4963,1479.815)
+:Sending Touch (ACTION_DOWN): 0:(154.0,1111.0)
+:Sending Touch (ACTION_UP): 0:(161.26314,1110.8795)
+:Sending Touch (ACTION_DOWN): 0:(256.0,999.0)
+:Sending Touch (ACTION_UP): 0:(245.9761,1059.3688)
+:Sending Touch (ACTION_DOWN): 0:(970.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(964.6138,1366.0248)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(435.0,681.0)
+:Sending Touch (ACTION_UP): 0:(429.20175,681.0531)
+:Sending Flip keyboardOpen=false
+    //[calendar_time:2016-04-15 12:30:28.183  system_uptime:3402442]
+    // Sending event #5200
+    //[calendar_time:2016-04-15 12:30:28.183  system_uptime:3402442]
+    // Sending event #5200
+:Sending Touch (ACTION_DOWN): 0:(461.0,1061.0)
+:Sending Touch (ACTION_UP): 0:(444.74768,1062.2151)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(73.0,1397.0)
+:Sending Touch (ACTION_UP): 0:(92.36269,1401.9578)
+:Sending Touch (ACTION_DOWN): 0:(199.0,123.0)
+:Sending Touch (ACTION_UP): 0:(214.24887,123.245346)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(131.0,669.0)
+:Sending Touch (ACTION_UP): 0:(130.97913,693.1922)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(949.0,528.0)
+:Sending Touch (ACTION_UP): 0:(949.2461,536.9015)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    //[calendar_time:2016-04-15 12:30:28.939  system_uptime:3403198]
+    // Sending event #5300
+:Sending Touch (ACTION_DOWN): 0:(971.0,1710.0)
+:Sending Touch (ACTION_UP): 0:(971.4218,1705.6624)
+:Sending Touch (ACTION_DOWN): 0:(3.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1058.6918)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(755.0,229.0)
+:Sending Touch (ACTION_UP): 0:(747.1836,248.78354)
+    // Rejecting start of Intent { act=android.settings.WIFI_SETTINGS cmp=com.android.settings/.Settings$WifiSettingsActivity } in package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(575.0,1706.0)
+:Sending Touch (ACTION_UP): 0:(623.1693,1672.8267)
+:Sending Touch (ACTION_DOWN): 0:(722.0,1426.0)
+:Sending Touch (ACTION_UP): 0:(712.2024,1417.7345)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,1717.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1683.3141)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    //[calendar_time:2016-04-15 12:30:30.433  system_uptime:3404692]
+    // Sending event #5400
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(140.0,1021.0)
+:Sending Touch (ACTION_UP): 0:(205.12578,935.70746)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(88.0,114.0)
+:Sending Touch (ACTION_UP): 0:(93.4193,53.61087)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2016-04-15 12:30:31.041  system_uptime:3405300]
+    // Sending event #5500
+    //[calendar_time:2016-04-15 12:30:31.041  system_uptime:3405300]
+    // Sending event #5500
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(766.0,434.0)
+:Sending Touch (ACTION_UP): 0:(757.2861,435.00662)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(58.0,613.0)
+:Sending Touch (ACTION_UP): 0:(56.833134,615.87537)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(236.0,1371.0)
+:Sending Touch (ACTION_UP): 0:(240.0253,1413.5946)
+:Sending Touch (ACTION_DOWN): 0:(867.0,1745.0)
+:Sending Touch (ACTION_UP): 0:(853.54645,1684.0193)
+:Sending Touch (ACTION_DOWN): 0:(665.0,1518.0)
+:Sending Touch (ACTION_UP): 0:(590.3252,1507.0448)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(18.0,727.0)
+:Sending Touch (ACTION_UP): 0:(16.117332,726.65314)
+:Sending Touch (ACTION_DOWN): 0:(964.0,1710.0)
+:Sending Touch (ACTION_UP): 0:(1076.607,1581.9435)
+:Sending Touch (ACTION_DOWN): 0:(811.0,546.0)
+:Sending Touch (ACTION_UP): 0:(842.2074,550.7863)
+    //[calendar_time:2016-04-15 12:30:31.911  system_uptime:3406170]
+    // Sending event #5600
+:Sending Touch (ACTION_DOWN): 0:(276.0,511.0)
+:Sending Touch (ACTION_UP): 0:(299.54214,512.54285)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(18.0,1162.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(66.337875,1072.0616)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(964.0,1378.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(869.5253,1382.0859)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(704.0,1368.0)
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(716.6961,1358.4257)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(375.0,888.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(367.19965,892.9952)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(666.0,12.0)
+:Sending Touch (ACTION_UP): 0:(656.9977,18.541143)
+:Sending Touch (ACTION_DOWN): 0:(521.0,620.0)
+:Sending Touch (ACTION_UP): 0:(519.95197,629.737)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(935.0,890.0)
+:Sending Touch (ACTION_UP): 0:(1012.7916,899.38196)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,1278.0)
+:Sending Touch (ACTION_UP): 0:(1038.844,1249.4529)
+:Sending Touch (ACTION_DOWN): 0:(530.0,480.0)
+:Sending Touch (ACTION_UP): 0:(508.0726,461.4511)
+:Sending Touch (ACTION_DOWN): 0:(414.0,201.0)
+:Sending Touch (ACTION_UP): 0:(412.6729,196.36111)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    //[calendar_time:2016-04-15 12:30:33.224  system_uptime:3407484]
+    // Sending event #5700
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(201.0,626.0)
+:Sending Touch (ACTION_UP): 0:(196.40923,642.40155)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(577.0,1741.0)
+:Sending Touch (ACTION_UP): 0:(581.66003,1725.2045)
+:Sending Touch (ACTION_DOWN): 0:(140.0,763.0)
+:Sending Touch (ACTION_UP): 0:(140.78703,766.7726)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1058.0,226.0)
+:Sending Touch (ACTION_UP): 0:(1055.7487,232.65735)
+:Sending Touch (ACTION_DOWN): 0:(476.0,1188.0)
+:Sending Touch (ACTION_UP): 0:(448.6182,1211.1239)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+    //[calendar_time:2016-04-15 12:30:33.847  system_uptime:3408106]
+    // Sending event #5800
+    //[calendar_time:2016-04-15 12:30:33.848  system_uptime:3408107]
+    // Sending event #5800
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(206.0,1525.0)
+:Sending Touch (ACTION_UP): 0:(205.04372,1517.3357)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(780.0,355.0)
+:Sending Touch (ACTION_UP): 0:(787.57007,346.7623)
+:Sending Touch (ACTION_DOWN): 0:(1074.0,1711.0)
+:Sending Touch (ACTION_UP): 0:(1076.206,1710.1212)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(800.0,856.0)
+:Sending Touch (ACTION_UP): 0:(793.1851,874.54846)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(402.0,1036.0)
+:Sending Touch (ACTION_UP): 0:(351.0009,1001.0745)
+:Sending Touch (ACTION_DOWN): 0:(1072.0,1509.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1509.0126)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    //[calendar_time:2016-04-15 12:30:34.148  system_uptime:3408407]
+    // Sending event #5900
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(444.0,1094.0)
+:Sending Touch (ACTION_UP): 0:(436.69614,1080.2683)
+:Sending Flip keyboardOpen=true
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calendar/.AllInOneActivity } in package com.android.calendar
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(486.0,846.0)
+:Sending Touch (ACTION_UP): 0:(500.33582,836.9831)
+:Sending Touch (ACTION_DOWN): 0:(923.0,11.0)
+:Sending Touch (ACTION_UP): 0:(926.52313,0.0)
+:Sending Touch (ACTION_DOWN): 0:(905.0,1450.0)
+:Sending Touch (ACTION_UP): 0:(1013.3068,1615.1458)
+:Sending Touch (ACTION_DOWN): 0:(977.0,1449.0)
+:Sending Touch (ACTION_UP): 0:(976.3648,1448.5112)
+:Sending Touch (ACTION_DOWN): 0:(75.0,1185.0)
+:Sending Touch (ACTION_UP): 0:(82.44679,1182.3134)
+:Sending Touch (ACTION_DOWN): 0:(266.0,360.0)
+:Sending Touch (ACTION_UP): 0:(282.5276,325.0026)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+    //[calendar_time:2016-04-15 12:30:36.044  system_uptime:3410303]
+    // Sending event #6000
+:Sending Touch (ACTION_DOWN): 0:(584.0,1495.0)
+:Sending Touch (ACTION_UP): 0:(585.80975,1482.9296)
+:Sending Touch (ACTION_DOWN): 0:(43.0,1034.0)
+:Sending Touch (ACTION_UP): 0:(52.16725,1033.9849)
+:Sending Touch (ACTION_DOWN): 0:(286.0,42.0)
+:Sending Touch (ACTION_UP): 0:(376.6095,77.58758)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(34.0,13.0)
+:Sending Touch (ACTION_UP): 0:(40.705894,23.75505)
+:Sending Touch (ACTION_DOWN): 0:(490.0,585.0)
+:Sending Touch (ACTION_UP): 0:(505.10406,590.55743)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(746.0,1523.0)
+:Sending Touch (ACTION_UP): 0:(765.08154,1523.0275)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(260.0,390.0)
+:Sending Touch (ACTION_UP): 0:(255.74725,390.5162)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(346.0,228.0)
+:Sending Touch (ACTION_UP): 0:(347.17615,235.85957)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(867.0,442.0)
+    //[calendar_time:2016-04-15 12:30:36.563  system_uptime:3410822]
+    // Sending event #6100
+:Sending Touch (ACTION_UP): 0:(884.8942,447.16705)
+:Sending Touch (ACTION_DOWN): 0:(641.0,165.0)
+:Sending Touch (ACTION_UP): 0:(650.08356,193.87167)
+:Sending Touch (ACTION_DOWN): 0:(837.0,1602.0)
+:Sending Touch (ACTION_UP): 0:(884.6241,1611.6606)
+:Sending Touch (ACTION_DOWN): 0:(1013.0,544.0)
+:Sending Touch (ACTION_UP): 0:(1022.7779,543.9688)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(904.0,1658.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(894.4855,1582.407)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(505.0,349.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(544.7804,361.5426)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(305.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(269.85715,1644.055)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(495.0,1757.0)
+:Sending Touch (ACTION_UP): 0:(533.9518,1715.9277)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(448.0,154.0)
+:Sending Touch (ACTION_UP): 0:(446.6449,151.10692)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+    //[calendar_time:2016-04-15 12:30:38.892  system_uptime:3413151]
+    // Sending event #6200
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(873.0,170.0)
+:Sending Touch (ACTION_UP): 0:(928.6744,232.58978)
+:Sending Touch (ACTION_DOWN): 0:(1045.0,1236.0)
+:Sending Touch (ACTION_UP): 0:(1069.9321,1232.446)
+:Sending Touch (ACTION_DOWN): 0:(964.0,139.0)
+:Sending Touch (ACTION_UP): 0:(950.988,171.69339)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(976.0,1620.0)
+:Sending Touch (ACTION_UP): 0:(1011.51086,1571.8782)
+:Sending Touch (ACTION_DOWN): 0:(264.0,341.0)
+:Sending Touch (ACTION_UP): 0:(263.7597,327.3779)
+:Sending Touch (ACTION_DOWN): 0:(518.0,252.0)
+:Sending Touch (ACTION_UP): 0:(511.8548,252.66615)
+:Sending Touch (ACTION_DOWN): 0:(197.0,352.0)
+:Sending Touch (ACTION_UP): 0:(217.35435,333.85242)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+    //[calendar_time:2016-04-15 12:30:39.278  system_uptime:3413537]
+    // Sending event #6300
+:Sending Touch (ACTION_DOWN): 0:(394.0,69.0)
+:Sending Touch (ACTION_UP): 0:(399.07208,59.38393)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(812.0,82.0)
+:Sending Touch (ACTION_UP): 0:(811.7873,81.28004)
+:Sending Touch (ACTION_DOWN): 0:(630.0,1662.0)
+:Sending Touch (ACTION_UP): 0:(659.1484,1617.2002)
+:Sending Touch (ACTION_DOWN): 0:(879.0,90.0)
+:Sending Touch (ACTION_UP): 0:(893.41394,96.53836)
+:Sending Touch (ACTION_DOWN): 0:(435.0,1756.0)
+:Sending Touch (ACTION_UP): 0:(394.4349,1693.8403)
+:Sending Touch (ACTION_DOWN): 0:(317.0,440.0)
+:Sending Touch (ACTION_UP): 0:(315.2001,440.12305)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(31.0,1474.0)
+:Sending Touch (ACTION_UP): 0:(19.937338,1473.8461)
+    //[calendar_time:2016-04-15 12:30:40.547  system_uptime:3414806]
+    // Sending event #6400
+:Sending Touch (ACTION_DOWN): 0:(455.0,762.0)
+:Sending Touch (ACTION_UP): 0:(455.55496,763.2445)
+:Sending Touch (ACTION_DOWN): 0:(611.0,1641.0)
+:Sending Touch (ACTION_UP): 0:(617.0715,1640.9996)
+:Sending Touch (ACTION_DOWN): 0:(72.0,121.0)
+:Sending Touch (ACTION_UP): 0:(57.31697,123.9774)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(994.0,1521.0)
+:Sending Touch (ACTION_UP): 0:(1012.3716,1517.7716)
+:Sending Touch (ACTION_DOWN): 0:(166.0,1488.0)
+:Sending Touch (ACTION_UP): 0:(145.81696,1465.239)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(324.0,363.0)
+:Sending Touch (ACTION_UP): 0:(307.1728,290.2036)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(118.0,390.0)
+:Sending Touch (ACTION_UP): 0:(59.36262,261.68207)
+    //[calendar_time:2016-04-15 12:30:40.879  system_uptime:3415142]
+    // Sending event #6500
+    //[calendar_time:2016-04-15 12:30:40.884  system_uptime:3415143]
+    // Sending event #6500
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(756.0,1334.0)
+:Sending Touch (ACTION_UP): 0:(801.1779,1367.4786)
+:Sending Touch (ACTION_DOWN): 0:(378.0,1378.0)
+:Sending Touch (ACTION_UP): 0:(329.49356,1385.8833)
+:Sending Touch (ACTION_DOWN): 0:(433.0,451.0)
+:Sending Touch (ACTION_UP): 0:(433.52173,447.877)
+:Sending Touch (ACTION_DOWN): 0:(621.0,108.0)
+:Sending Touch (ACTION_UP): 0:(625.85657,100.88651)
+:Sending Touch (ACTION_DOWN): 0:(435.0,356.0)
+:Sending Touch (ACTION_UP): 0:(433.0223,356.7336)
+:Sending Touch (ACTION_DOWN): 0:(411.0,1473.0)
+:Sending Touch (ACTION_UP): 0:(403.08264,1472.9895)
+:Sending Touch (ACTION_DOWN): 0:(163.0,1643.0)
+:Sending Touch (ACTION_UP): 0:(163.2475,1639.7148)
+:Sending Touch (ACTION_DOWN): 0:(737.0,859.0)
+:Sending Touch (ACTION_UP): 0:(752.4218,866.1208)
+    //[calendar_time:2016-04-15 12:30:42.316  system_uptime:3416575]
+    // Sending event #6600
+    //[calendar_time:2016-04-15 12:30:42.316  system_uptime:3416575]
+    // Sending event #6600
+:Sending Touch (ACTION_DOWN): 0:(410.0,1567.0)
+:Sending Touch (ACTION_UP): 0:(447.77457,1574.6442)
+:Sending Touch (ACTION_DOWN): 0:(961.0,617.0)
+:Sending Touch (ACTION_UP): 0:(964.1616,595.5684)
+:Sending Touch (ACTION_DOWN): 0:(204.0,652.0)
+:Sending Touch (ACTION_UP): 0:(191.6527,654.5643)
+:Sending Touch (ACTION_DOWN): 0:(193.0,313.0)
+:Sending Touch (ACTION_UP): 0:(207.94531,327.8303)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(547.0,1588.0)
+:Sending Touch (ACTION_UP): 0:(562.3812,1604.404)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(114.0,384.0)
+:Sending Touch (ACTION_UP): 0:(145.97653,457.64297)
+:Sending Touch (ACTION_DOWN): 0:(36.0,774.0)
+:Sending Touch (ACTION_UP): 0:(0.0,785.1054)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    //[calendar_time:2016-04-15 12:30:42.640  system_uptime:3416899]
+    // Sending event #6700
+:Sending Touch (ACTION_DOWN): 0:(207.0,1600.0)
+:Sending Touch (ACTION_UP): 0:(104.01477,1662.0266)
+:Sending Touch (ACTION_DOWN): 0:(345.0,844.0)
+:Sending Touch (ACTION_UP): 0:(343.91495,844.14856)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(48.0,491.0)
+:Sending Touch (ACTION_UP): 0:(48.421745,492.58173)
+:Sending Touch (ACTION_DOWN): 0:(761.0,232.0)
+:Sending Touch (ACTION_UP): 0:(743.3302,252.41628)
+:Sending Touch (ACTION_DOWN): 0:(989.0,1697.0)
+:Sending Touch (ACTION_UP): 0:(993.99286,1701.3304)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+    //[calendar_time:2016-04-15 12:30:42.977  system_uptime:3417236]
+    // Sending event #6800
+:Sending Touch (ACTION_DOWN): 0:(581.0,226.0)
+:Sending Touch (ACTION_UP): 0:(546.74945,183.12949)
+:Sending Touch (ACTION_DOWN): 0:(1011.0,1024.0)
+:Sending Touch (ACTION_UP): 0:(1066.7913,957.65967)
+:Sending Touch (ACTION_DOWN): 0:(753.0,1050.0)
+:Sending Touch (ACTION_UP): 0:(753.38824,1034.3208)
+    // activityResuming(com.douglaslewis.weatherforecast)
+    // activityResuming(com.douglaslewis.weatherforecast)
+:Sending Touch (ACTION_DOWN): 0:(667.0,913.0)
+:Sending Touch (ACTION_UP): 0:(663.18774,903.0875)
+:Sending Touch (ACTION_DOWN): 0:(727.0,690.0)
+:Sending Touch (ACTION_UP): 0:(755.06744,647.90015)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(935.0,1655.0)
+:Sending Touch (ACTION_UP): 0:(931.47955,1657.0424)
+:Sending Touch (ACTION_DOWN): 0:(152.0,123.0)
+:Sending Touch (ACTION_UP): 0:(160.41852,117.90434)
+:Sending Touch (ACTION_DOWN): 0:(680.0,834.0)
+:Sending Touch (ACTION_UP): 0:(635.00836,834.0233)
+:Sending Touch (ACTION_DOWN): 0:(855.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(865.7761,1659.1501)
+:Sending Touch (ACTION_DOWN): 0:(269.0,1730.0)
+:Sending Touch (ACTION_UP): 0:(269.6169,1723.1104)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(1071.0,1632.0)
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(1070.6984,1696.3092)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(437.0,645.0)
+    //[calendar_time:2016-04-15 12:30:45.153  system_uptime:3419412]
+    // Sending event #6900
+:Sending Touch (ACTION_UP): 0:(427.70206,641.3374)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(640.0,1706.0)
+:Sending Touch (ACTION_UP): 0:(742.7199,1696.3505)
+:Sending Touch (ACTION_DOWN): 0:(1055.0,99.0)
+:Sending Touch (ACTION_UP): 0:(1055.157,81.91859)
+:Sending Touch (ACTION_DOWN): 0:(972.0,264.0)
+:Sending Touch (ACTION_UP): 0:(862.30707,194.98514)
+:Sending Touch (ACTION_DOWN): 0:(623.0,934.0)
+:Sending Touch (ACTION_UP): 0:(697.82825,968.1093)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(313.0,945.0)
+    // Injection Failed
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(271.73654,934.34735)
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(925.0,224.0)
+:Sending Touch (ACTION_UP): 0:(946.2973,319.0833)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+    //[calendar_time:2016-04-15 12:30:46.515  system_uptime:3420774]
+    // Sending event #7000
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(715.0,851.0)
+:Sending Touch (ACTION_UP): 0:(645.88104,837.13464)
+:Sending Touch (ACTION_DOWN): 0:(603.0,843.0)
+:Sending Touch (ACTION_UP): 0:(604.59296,839.92505)
+:Sending Touch (ACTION_DOWN): 0:(531.0,1059.0)
+:Sending Touch (ACTION_UP): 0:(534.6896,1056.6383)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(672.0,1455.0)
+:Sending Touch (ACTION_UP): 0:(660.2076,1442.8696)
+:Sending Touch (ACTION_DOWN): 0:(375.0,495.0)
+:Sending Touch (ACTION_UP): 0:(381.43195,495.0065)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(436.0,22.0)
+    //[calendar_time:2016-04-15 12:30:46.805  system_uptime:3421064]
+    // Sending event #7100
+:Sending Touch (ACTION_UP): 0:(404.98083,44.23632)
+:Sending Touch (ACTION_DOWN): 0:(358.0,1559.0)
+:Sending Touch (ACTION_UP): 0:(374.52914,1544.3772)
+:Sending Touch (ACTION_DOWN): 0:(928.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(920.11084,1252.0934)
+:Sending Touch (ACTION_DOWN): 0:(973.0,904.0)
+:Sending Touch (ACTION_UP): 0:(975.7949,870.2182)
+:Sending Touch (ACTION_DOWN): 0:(1063.0,95.0)
+:Sending Touch (ACTION_UP): 0:(1069.2069,83.25003)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(70.0,1184.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1341.61)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(583.0,560.0)
+:Sending Touch (ACTION_UP): 0:(513.4607,621.5284)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(531.0,464.0)
+:Sending Touch (ACTION_UP): 0:(539.0923,457.4794)
+:Sending Touch (ACTION_DOWN): 0:(631.0,967.0)
+:Sending Touch (ACTION_UP): 0:(630.5363,965.4048)
+    //[calendar_time:2016-04-15 12:30:47.425  system_uptime:3421684]
+    // Sending event #7200
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(618.0,54.0)
+:Sending Touch (ACTION_UP): 0:(610.4578,64.94138)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(557.0,29.0)
+:Sending Touch (ACTION_UP): 0:(584.96216,55.74584)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(702.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(699.64685,1218.0079)
+:Sending Touch (ACTION_DOWN): 0:(953.0,1192.0)
+:Sending Touch (ACTION_UP): 0:(921.83905,1205.9071)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(358.0,1193.0)
+:Sending Touch (ACTION_UP): 0:(354.15945,1199.0085)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    //[calendar_time:2016-04-15 12:30:47.887  system_uptime:3422146]
+    // Sending event #7300
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(395.0,1558.0)
+:Sending Touch (ACTION_UP): 0:(326.30576,1474.5531)
+:Sending Touch (ACTION_DOWN): 0:(401.0,1525.0)
+:Sending Touch (ACTION_UP): 0:(404.7594,1515.809)
+:Sending Touch (ACTION_DOWN): 0:(1056.0,1465.0)
+:Sending Touch (ACTION_UP): 0:(998.4633,1478.2421)
+:Sending Touch (ACTION_DOWN): 0:(1020.0,863.0)
+:Sending Touch (ACTION_UP): 0:(1030.1134,877.2693)
+:Sending Touch (ACTION_DOWN): 0:(3.0,598.0)
+:Sending Touch (ACTION_UP): 0:(7.862415,589.2576)
+:Sending Touch (ACTION_DOWN): 0:(492.0,1423.0)
+:Sending Touch (ACTION_UP): 0:(458.2807,1343.8435)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(397.0,811.0)
+:Sending Touch (ACTION_UP): 0:(375.00745,722.57434)
+:Sending Touch (ACTION_DOWN): 0:(260.0,1343.0)
+:Sending Touch (ACTION_UP): 0:(259.65314,1345.2781)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(876.0,1408.0)
+:Sending Touch (ACTION_UP): 0:(875.3895,1408.3136)
+    //[calendar_time:2016-04-15 12:30:50.718  system_uptime:3424977]
+    // Sending event #7400
+    //[calendar_time:2016-04-15 12:30:50.718  system_uptime:3424977]
+    // Sending event #7400
+:Sending Touch (ACTION_DOWN): 0:(130.0,945.0)
+:Sending Touch (ACTION_UP): 0:(128.57472,946.0458)
+:Sending Touch (ACTION_DOWN): 0:(394.0,972.0)
+:Sending Touch (ACTION_UP): 0:(369.14087,962.9716)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(787.0,991.0)
+:Sending Touch (ACTION_UP): 0:(790.33264,996.6527)
+:Sending Touch (ACTION_DOWN): 0:(542.0,1150.0)
+:Sending Touch (ACTION_UP): 0:(539.49335,1147.626)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(670.0,1708.0)
+:Sending Touch (ACTION_UP): 0:(657.199,1704.1647)
+:Sending Touch (ACTION_DOWN): 0:(523.0,3.0)
+:Sending Touch (ACTION_UP): 0:(520.2143,5.240777)
+:Sending Touch (ACTION_DOWN): 0:(604.0,1131.0)
+:Sending Touch (ACTION_UP): 0:(590.2233,1085.7815)
+:Sending Touch (ACTION_DOWN): 0:(296.0,984.0)
+    //[calendar_time:2016-04-15 12:30:51.969  system_uptime:3426228]
+    // Sending event #7500
+:Sending Touch (ACTION_UP): 0:(218.37686,939.23584)
+:Sending Touch (ACTION_DOWN): 0:(450.0,1386.0)
+:Sending Touch (ACTION_UP): 0:(433.4851,1366.8696)
+:Sending Touch (ACTION_DOWN): 0:(98.0,649.0)
+:Sending Touch (ACTION_UP): 0:(49.088566,646.8937)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(145.0,24.0)
+:Sending Touch (ACTION_UP): 0:(141.17024,23.380857)
+:Sending Touch (ACTION_DOWN): 0:(1052.0,1582.0)
+:Sending Touch (ACTION_UP): 0:(1035.3765,1582.8827)
+:Sending Touch (ACTION_DOWN): 0:(602.0,57.0)
+:Sending Touch (ACTION_UP): 0:(597.37445,56.704178)
+:Sending Touch (ACTION_DOWN): 0:(12.0,829.0)
+:Sending Touch (ACTION_UP): 0:(1.0068774,798.8678)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(241.0,521.0)
+:Sending Touch (ACTION_UP): 0:(255.5582,490.9857)
+:Sending Touch (ACTION_DOWN): 0:(430.0,530.0)
+:Sending Touch (ACTION_UP): 0:(367.57947,563.2181)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+    //[calendar_time:2016-04-15 12:30:54.309  system_uptime:3428568]
+    // Sending event #7600
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(588.0,638.0)
+:Sending Touch (ACTION_UP): 0:(588.561,761.18146)
+:Sending Touch (ACTION_DOWN): 0:(1.0,1373.0)
+:Sending Touch (ACTION_UP): 0:(2.405181,1372.22)
+:Sending Touch (ACTION_DOWN): 0:(152.0,47.0)
+:Sending Touch (ACTION_UP): 0:(139.95393,19.410667)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(429.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(444.51108,1427.034)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(567.0,1311.0)
+:Sending Touch (ACTION_UP): 0:(565.5019,1315.7205)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    //[calendar_time:2016-04-15 12:30:55.155  system_uptime:3429414]
+    // Sending event #7700
+:Sending Touch (ACTION_DOWN): 0:(870.0,895.0)
+:Sending Touch (ACTION_UP): 0:(868.589,873.96875)
+:Sending Touch (ACTION_DOWN): 0:(863.0,470.0)
+:Sending Touch (ACTION_UP): 0:(835.37823,409.30115)
+:Sending Touch (ACTION_DOWN): 0:(281.0,251.0)
+:Sending Touch (ACTION_UP): 0:(269.34277,242.722)
+:Sending Touch (ACTION_DOWN): 0:(225.0,631.0)
+:Sending Touch (ACTION_UP): 0:(225.77379,647.40857)
+:Sending Touch (ACTION_DOWN): 0:(483.0,1677.0)
+:Sending Touch (ACTION_UP): 0:(486.08084,1679.0563)
+:Sending Touch (ACTION_DOWN): 0:(1046.0,1370.0)
+:Sending Touch (ACTION_UP): 0:(1040.7122,1372.476)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(252.0,255.0)
+:Sending Touch (ACTION_UP): 0:(299.58557,270.2929)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2016-04-15 12:30:55.894  system_uptime:3430153]
+    // Sending event #7800
+:Sending Touch (ACTION_DOWN): 0:(913.0,11.0)
+:Sending Touch (ACTION_UP): 0:(892.5019,8.835598)
+    // activityResuming(com.douglaslewis.weatherforecast)
+:Sending Touch (ACTION_DOWN): 0:(445.0,14.0)
+:Sending Touch (ACTION_UP): 0:(429.18713,3.613099)
+:Sending Touch (ACTION_DOWN): 0:(356.0,1294.0)
+:Sending Touch (ACTION_UP): 0:(351.37308,1292.7069)
+:Sending Touch (ACTION_DOWN): 0:(766.0,860.0)
+:Sending Touch (ACTION_UP): 0:(765.243,852.14465)
+:Sending Touch (ACTION_DOWN): 0:(199.0,808.0)
+:Sending Touch (ACTION_UP): 0:(198.30411,808.4575)
+:Sending Touch (ACTION_DOWN): 0:(769.0,749.0)
+:Sending Touch (ACTION_UP): 0:(777.33435,731.86206)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(256.0,77.0)
+:Sending Touch (ACTION_UP): 0:(222.05359,26.309204)
+:Sending Touch (ACTION_DOWN): 0:(1031.0,166.0)
+:Sending Touch (ACTION_UP): 0:(1019.0919,140.2139)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+    //[calendar_time:2016-04-15 12:30:57.304  system_uptime:3431563]
+    // Sending event #7900
+:Sending Touch (ACTION_DOWN): 0:(38.0,176.0)
+:Sending Touch (ACTION_UP): 0:(51.580566,178.41924)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(925.0,410.0)
+:Sending Touch (ACTION_UP): 0:(924.96265,408.89554)
+:Sending Touch (ACTION_DOWN): 0:(223.0,422.0)
+:Sending Touch (ACTION_UP): 0:(223.95576,419.2913)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(401.0,1175.0)
+:Sending Touch (ACTION_UP): 0:(389.1697,1182.6389)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(413.0,1053.0)
+:Sending Touch (ACTION_UP): 0:(490.70557,1045.6528)
+:Sending Touch (ACTION_DOWN): 0:(219.0,1388.0)
+:Sending Touch (ACTION_UP): 0:(218.49577,1390.6342)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+    //[calendar_time:2016-04-15 12:30:57.988  system_uptime:3432247]
+    // Sending event #8000
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(486.0,36.0)
+:Sending Touch (ACTION_UP): 0:(470.50543,52.967365)
+:Sending Touch (ACTION_DOWN): 0:(664.0,895.0)
+:Sending Touch (ACTION_UP): 0:(657.44635,894.8552)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(521.0,1703.0)
+:Sending Touch (ACTION_UP): 0:(531.6833,1748.4701)
+:Sending Touch (ACTION_DOWN): 0:(64.0,1220.0)
+:Sending Touch (ACTION_UP): 0:(77.01186,1247.4729)
+:Sending Touch (ACTION_DOWN): 0:(363.0,674.0)
+:Sending Touch (ACTION_UP): 0:(479.87927,639.261)
+:Sending Touch (ACTION_DOWN): 0:(176.0,76.0)
+:Sending Touch (ACTION_UP): 0:(187.60329,75.29865)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2016-04-15 12:30:59.608  system_uptime:3433867]
+    // Sending event #8100
+:Sending Touch (ACTION_DOWN): 0:(736.0,361.0)
+:Sending Touch (ACTION_UP): 0:(766.8364,353.8906)
+:Sending Touch (ACTION_DOWN): 0:(274.0,1234.0)
+:Sending Touch (ACTION_UP): 0:(269.82385,1234.0331)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    // activityResuming(com.douglaslewis.weatherforecast)
+:Sending Touch (ACTION_DOWN): 0:(299.0,234.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(281.55536,232.30948)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(130.0,964.0)
+:Sending Touch (ACTION_UP): 0:(162.05441,1030.3561)
+:Sending Touch (ACTION_DOWN): 0:(800.0,1325.0)
+:Sending Touch (ACTION_UP): 0:(791.4816,1325.1128)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(122.0,847.0)
+:Sending Touch (ACTION_UP): 0:(117.644516,852.81824)
+:Sending Touch (ACTION_DOWN): 0:(825.0,226.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(928.7826,159.27675)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(582.0,1601.0)
+:Sending Touch (ACTION_UP): 0:(595.2534,1593.929)
+:Sending Touch (ACTION_DOWN): 0:(328.0,490.0)
+:Sending Touch (ACTION_UP): 0:(321.94937,489.9874)
+    //[calendar_time:2016-04-15 12:31:00.927  system_uptime:3435186]
+    // Sending event #8200
+:Sending Touch (ACTION_DOWN): 0:(354.0,922.0)
+:Sending Touch (ACTION_UP): 0:(340.74,938.0741)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(316.0,537.0)
+:Sending Touch (ACTION_UP): 0:(309.63995,524.9047)
+:Sending Touch (ACTION_DOWN): 0:(635.0,116.0)
+:Sending Touch (ACTION_UP): 0:(638.5561,114.94467)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(277.0,147.0)
+:Sending Touch (ACTION_UP): 0:(284.77786,147.14888)
+:Sending Touch (ACTION_DOWN): 0:(955.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(955.8443,1632.8345)
+:Sending Touch (ACTION_DOWN): 0:(1005.0,52.0)
+    //[calendar_time:2016-04-15 12:31:01.387  system_uptime:3435646]
+    // Sending event #8300
+:Sending Touch (ACTION_UP): 0:(1002.34717,40.072517)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(534.0,21.0)
+:Sending Touch (ACTION_UP): 0:(523.0757,19.833681)
+:Sending Touch (ACTION_DOWN): 0:(956.0,1219.0)
+:Sending Touch (ACTION_UP): 0:(974.6151,1219.6838)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1053.0,1055.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1078.2828)
+:Sending Touch (ACTION_DOWN): 0:(293.0,960.0)
+:Sending Touch (ACTION_UP): 0:(307.81967,973.7706)
+:Sending Touch (ACTION_DOWN): 0:(430.0,353.0)
+:Sending Touch (ACTION_UP): 0:(404.4712,365.37628)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1005.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(1011.06006,1063.1986)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(99.0,1093.0)
+    //[calendar_time:2016-04-15 12:31:01.829  system_uptime:3436088]
+    // Sending event #8400
+:Sending Touch (ACTION_UP): 0:(19.659502,1035.7084)
+:Sending Touch (ACTION_DOWN): 0:(82.0,1584.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1709.6969)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.music/.MusicBrowserActivity } in package com.android.music
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(392.0,591.0)
+:Sending Touch (ACTION_UP): 0:(395.19974,548.7063)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(130.0,799.0)
+:Sending Touch (ACTION_UP): 0:(137.62994,788.3525)
+:Sending Touch (ACTION_DOWN): 0:(41.0,225.0)
+:Sending Touch (ACTION_UP): 0:(16.378347,226.31569)
+    //[calendar_time:2016-04-15 12:31:02.319  system_uptime:3436578]
+    // Sending event #8500
+    //[calendar_time:2016-04-15 12:31:02.319  system_uptime:3436578]
+    // Sending event #8500
+:Sending Touch (ACTION_DOWN): 0:(207.0,186.0)
+:Sending Touch (ACTION_UP): 0:(161.33022,215.3901)
+:Sending Touch (ACTION_DOWN): 0:(246.0,199.0)
+:Sending Touch (ACTION_UP): 0:(251.70924,209.21231)
+:Sending Touch (ACTION_DOWN): 0:(706.0,286.0)
+:Sending Touch (ACTION_UP): 0:(692.99115,295.1303)
+:Sending Touch (ACTION_DOWN): 0:(292.0,889.0)
+:Sending Touch (ACTION_UP): 0:(285.9813,871.8483)
+:Sending Touch (ACTION_DOWN): 0:(214.0,287.0)
+:Sending Touch (ACTION_UP): 0:(235.26526,292.9337)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(175.0,1028.0)
+:Sending Touch (ACTION_UP): 0:(170.5687,1027.2874)
+:Sending Touch (ACTION_DOWN): 0:(553.0,558.0)
+:Sending Touch (ACTION_UP): 0:(498.24774,648.41565)
+:Sending Touch (ACTION_DOWN): 0:(414.0,1511.0)
+:Sending Touch (ACTION_UP): 0:(408.00827,1514.2435)
+:Sending Touch (ACTION_DOWN): 0:(1032.0,852.0)
+:Sending Touch (ACTION_UP): 0:(1032.6833,859.99274)
+:Sending Touch (ACTION_DOWN): 0:(769.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(758.0307,1238.2545)
+:Sending Touch (ACTION_DOWN): 0:(478.0,869.0)
+:Sending Touch (ACTION_UP): 0:(490.05432,871.4212)
+:Sending Touch (ACTION_DOWN): 0:(1068.0,1248.0)
+:Sending Touch (ACTION_UP): 0:(1025.3434,1197.9401)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(619.0,1223.0)
+:Sending Touch (ACTION_UP): 0:(634.7125,1235.0052)
+    //[calendar_time:2016-04-15 12:31:02.860  system_uptime:3437119]
+    // Sending event #8600
+    //[calendar_time:2016-04-15 12:31:02.861  system_uptime:3437120]
+    // Sending event #8600
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(453.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(451.23154,1091.4586)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(868.0,386.0)
+:Sending Touch (ACTION_UP): 0:(857.46466,386.91684)
+:Sending Touch (ACTION_DOWN): 0:(316.0,810.0)
+:Sending Touch (ACTION_UP): 0:(310.92642,802.0147)
+:Sending Touch (ACTION_DOWN): 0:(994.0,18.0)
+:Sending Touch (ACTION_UP): 0:(1013.90466,58.754036)
+:Sending Touch (ACTION_DOWN): 0:(913.0,215.0)
+:Sending Touch (ACTION_UP): 0:(929.51483,223.27342)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(334.0,831.0)
+:Sending Touch (ACTION_UP): 0:(323.61096,829.90765)
+:Sending Touch (ACTION_DOWN): 0:(764.0,277.0)
+:Sending Touch (ACTION_UP): 0:(729.59973,153.25671)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(162.0,684.0)
+:Sending Touch (ACTION_UP): 0:(156.23187,692.1148)
+:Sending Touch (ACTION_DOWN): 0:(473.0,1380.0)
+:Sending Touch (ACTION_UP): 0:(472.84128,1377.6547)
+    //[calendar_time:2016-04-15 12:31:03.537  system_uptime:3437796]
+    // Sending event #8700
+    //[calendar_time:2016-04-15 12:31:03.537  system_uptime:3437796]
+    // Sending event #8700
+:Sending Touch (ACTION_DOWN): 0:(820.0,1123.0)
+:Sending Touch (ACTION_UP): 0:(909.1681,1172.3245)
+:Sending Touch (ACTION_DOWN): 0:(685.0,813.0)
+:Sending Touch (ACTION_UP): 0:(731.174,863.82965)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(42.0,986.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1018.24005)
+:Sending Touch (ACTION_DOWN): 0:(182.0,537.0)
+:Sending Touch (ACTION_UP): 0:(179.05186,531.9498)
+:Sending Touch (ACTION_DOWN): 0:(454.0,1723.0)
+:Sending Touch (ACTION_UP): 0:(468.8521,1614.948)
+:Sending Touch (ACTION_DOWN): 0:(380.0,1762.0)
+:Sending Touch (ACTION_UP): 0:(379.98096,1763.4642)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(264.0,1069.0)
+:Sending Touch (ACTION_UP): 0:(317.6193,1002.33624)
+:Sending Touch (ACTION_DOWN): 0:(608.0,993.0)
+:Sending Touch (ACTION_UP): 0:(592.5417,990.7019)
+    //[calendar_time:2016-04-15 12:31:04.219  system_uptime:3438478]
+    // Sending event #8800
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Touch (ACTION_DOWN): 0:(889.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(915.1542,1085.5431)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(163.0,948.0)
+:Sending Touch (ACTION_UP): 0:(169.9772,947.52325)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(872.0,299.0)
+:Sending Touch (ACTION_UP): 0:(873.2046,298.91037)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(768.0,218.0)
+:Sending Touch (ACTION_UP): 0:(773.3007,216.91725)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2016-04-15 12:31:05.018  system_uptime:3439277]
+    // Sending event #8900
+:Sending Touch (ACTION_DOWN): 0:(539.0,1425.0)
+:Sending Touch (ACTION_UP): 0:(521.4026,1424.6642)
+:Sending Touch (ACTION_DOWN): 0:(87.0,1134.0)
+:Sending Touch (ACTION_UP): 0:(93.40109,1134.3625)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(196.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(187.73758,1585.905)
+:Sending Touch (ACTION_DOWN): 0:(679.0,1049.0)
+:Sending Touch (ACTION_UP): 0:(700.9338,1039.9545)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1146.0)
+:Sending Touch (ACTION_UP): 0:(848.3342,1132.1519)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(661.0,133.0)
+:Sending Touch (ACTION_UP): 0:(659.0716,130.68687)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(670.0,665.0)
+:Sending Touch (ACTION_UP): 0:(669.7149,617.36707)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Touch (ACTION_DOWN): 0:(162.0,1713.0)
+:Sending Touch (ACTION_UP): 0:(258.13632,1748.6536)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,1443.0)
+    //[calendar_time:2016-04-15 12:31:06.465  system_uptime:3440724]
+    // Sending event #9000
+:Sending Touch (ACTION_UP): 0:(1080.0,1537.4734)
+    // Rejecting start of Intent { act=android.intent.action.SHOW_BRIGHTNESS_DIALOG cmp=com.android.systemui/.settings.BrightnessDialog } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(800.0,303.0)
+:Sending Touch (ACTION_UP): 0:(815.79565,257.93857)
+:Sending Touch (ACTION_DOWN): 0:(491.0,741.0)
+:Sending Touch (ACTION_UP): 0:(498.00943,750.9586)
+:Sending Touch (ACTION_DOWN): 0:(569.0,871.0)
+:Sending Touch (ACTION_UP): 0:(563.1851,891.62036)
+:Sending Touch (ACTION_DOWN): 0:(188.0,187.0)
+:Sending Touch (ACTION_UP): 0:(186.89627,190.92963)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.android.launcher/com.android.launcher2.Launcher } in package com.android.launcher
+:Sending Touch (ACTION_DOWN): 0:(535.0,1611.0)
+:Sending Touch (ACTION_UP): 0:(546.2754,1606.4117)
+:Sending Touch (ACTION_DOWN): 0:(688.0,279.0)
+:Sending Touch (ACTION_UP): 0:(680.6223,279.4411)
+:Sending Touch (ACTION_DOWN): 0:(569.0,968.0)
+:Sending Touch (ACTION_UP): 0:(570.1458,968.77997)
+:Sending Touch (ACTION_DOWN): 0:(1001.0,234.0)
+:Sending Touch (ACTION_UP): 0:(998.5667,232.38864)
+:Sending Touch (ACTION_DOWN): 0:(1057.0,378.0)
+:Sending Touch (ACTION_UP): 0:(1056.6082,377.08682)
+    // activityResuming(com.android.settings)
+    // Rejecting resume of package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(816.0,1544.0)
+:Sending Touch (ACTION_UP): 0:(826.8885,1556.6399)
+:Sending Touch (ACTION_DOWN): 0:(89.0,281.0)
+    //[calendar_time:2016-04-15 12:31:07.109  system_uptime:3441368]
+    // Sending event #9100
+:Sending Touch (ACTION_UP): 0:(95.03676,287.11755)
+:Sending Touch (ACTION_DOWN): 0:(106.0,1611.0)
+:Sending Touch (ACTION_UP): 0:(113.27933,1615.709)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(216.0,697.0)
+:Sending Touch (ACTION_UP): 0:(216.30876,696.4249)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(604.0,423.0)
+:Sending Touch (ACTION_UP): 0:(533.1202,475.61353)
+:Sending Touch (ACTION_DOWN): 0:(739.0,770.0)
+:Sending Touch (ACTION_UP): 0:(708.67145,680.0719)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(595.0,1118.0)
+:Sending Touch (ACTION_UP): 0:(596.95044,1130.038)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/com.squareup.leakcanary.internal.DisplayLeakActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(98.0,1648.0)
+:Sending Touch (ACTION_UP): 0:(52.399944,1741.1091)
+    //[calendar_time:2016-04-15 12:31:07.926  system_uptime:3442185]
+    // Sending event #9200
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1.0,1061.0)
+:Sending Touch (ACTION_UP): 0:(3.077626,1060.1722)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(985.0,503.0)
+:Sending Touch (ACTION_UP): 0:(996.78046,479.85416)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(104.0,822.0)
+:Sending Touch (ACTION_UP): 0:(122.586525,822.7237)
+:Sending Touch (ACTION_DOWN): 0:(833.0,691.0)
+:Sending Touch (ACTION_UP): 0:(840.8109,617.8543)
+:Sending Touch (ACTION_DOWN): 0:(330.0,1386.0)
+:Sending Touch (ACTION_UP): 0:(344.9504,1374.396)
+:Sending Touch (ACTION_DOWN): 0:(671.0,423.0)
+:Sending Touch (ACTION_UP): 0:(677.6124,426.3376)
+:Sending Touch (ACTION_DOWN): 0:(53.0,598.0)
+:Sending Touch (ACTION_UP): 0:(47.511166,602.47485)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    //[calendar_time:2016-04-15 12:31:08.742  system_uptime:3443001]
+    // Sending event #9300
+    //[calendar_time:2016-04-15 12:31:08.742  system_uptime:3443001]
+    // Sending event #9300
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(635.0,1573.0)
+:Sending Touch (ACTION_UP): 0:(621.0332,1582.5494)
+:Sending Touch (ACTION_DOWN): 0:(850.0,315.0)
+:Sending Touch (ACTION_UP): 0:(842.5322,306.0879)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(374.0,398.0)
+:Sending Touch (ACTION_UP): 0:(371.20663,409.70108)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+    //[calendar_time:2016-04-15 12:31:09.209  system_uptime:3443468]
+    // Sending event #9400
+:Sending Touch (ACTION_DOWN): 0:(27.0,1153.0)
+:Sending Touch (ACTION_UP): 0:(24.344492,1166.9686)
+:Sending Touch (ACTION_DOWN): 0:(84.0,60.0)
+:Sending Touch (ACTION_UP): 0:(37.168396,89.00864)
+:Sending Touch (ACTION_DOWN): 0:(1024.0,860.0)
+:Sending Touch (ACTION_UP): 0:(1019.22107,864.7846)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(683.0,1150.0)
+:Sending Touch (ACTION_UP): 0:(682.7758,1140.3472)
+:Sending Touch (ACTION_DOWN): 0:(277.0,1774.0)
+:Sending Touch (ACTION_UP): 0:(292.77045,1776.0)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(457.0,35.0)
+:Sending Touch (ACTION_UP): 0:(489.2871,24.336746)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1583.0)
+:Sending Touch (ACTION_UP): 0:(783.8055,1649.254)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,1542.0)
+:Sending Touch (ACTION_UP): 0:(1037.6211,1519.1539)
+:Sending Touch (ACTION_DOWN): 0:(550.0,1771.0)
+:Sending Touch (ACTION_UP): 0:(550.0001,1753.9601)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(252.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(244.40363,1048.3966)
+:Sending Touch (ACTION_DOWN): 0:(632.0,1734.0)
+    //[calendar_time:2016-04-15 12:31:10.933  system_uptime:3445192]
+    // Sending event #9500
+:Sending Touch (ACTION_UP): 0:(662.7359,1748.1388)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1071.0,1073.0)
+:Sending Touch (ACTION_UP): 0:(1080.0,1069.6995)
+:Sending Touch (ACTION_DOWN): 0:(133.0,151.0)
+:Sending Touch (ACTION_UP): 0:(130.69334,146.33969)
+:Sending Touch (ACTION_DOWN): 0:(426.0,1112.0)
+:Sending Touch (ACTION_UP): 0:(416.2759,1107.9775)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,1209.0)
+:Sending Touch (ACTION_UP): 0:(1069.9454,1209.4052)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(148.0,639.0)
+:Sending Touch (ACTION_UP): 0:(171.87845,654.609)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=content://media/external/images/media/82 typ=image/png cmp=com.android.gallery/com.android.camera.ViewImage } in package com.android.gallery
+:Sending Touch (ACTION_DOWN): 0:(507.0,661.0)
+:Sending Touch (ACTION_UP): 0:(555.5279,724.91565)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+    //[calendar_time:2016-04-15 12:31:11.399  system_uptime:3445659]
+    // Sending event #9600
+:Sending Touch (ACTION_DOWN): 0:(235.0,567.0)
+:Sending Touch (ACTION_UP): 0:(229.04547,570.6554)
+:Sending Touch (ACTION_DOWN): 0:(447.0,1618.0)
+:Sending Touch (ACTION_UP): 0:(458.54803,1615.623)
+:Sending Touch (ACTION_DOWN): 0:(647.0,30.0)
+:Sending Touch (ACTION_UP): 0:(667.51544,31.857586)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(897.0,1255.0)
+:Sending Touch (ACTION_UP): 0:(895.21796,1259.7213)
+:Sending Touch (ACTION_DOWN): 0:(720.0,558.0)
+:Sending Touch (ACTION_UP): 0:(674.0594,556.66986)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(508.0,1517.0)
+:Sending Touch (ACTION_UP): 0:(511.747,1518.4368)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+    //[calendar_time:2016-04-15 12:31:11.730  system_uptime:3445997]
+    // Sending event #9700
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(401.0,994.0)
+:Sending Touch (ACTION_UP): 0:(381.8746,992.2657)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(487.0,73.0)
+:Sending Touch (ACTION_UP): 0:(457.1177,86.38747)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(580.0,68.0)
+:Sending Touch (ACTION_UP): 0:(572.43976,70.902)
+:Sending Touch (ACTION_DOWN): 0:(96.0,499.0)
+:Sending Touch (ACTION_UP): 0:(94.61108,498.8598)
+:Sending Touch (ACTION_DOWN): 0:(632.0,214.0)
+:Sending Touch (ACTION_UP): 0:(616.71313,262.37683)
+    // Rejecting start of Intent { act=android.intent.action.CALL_BUTTON cmp=com.android.dialer/.DialtactsActivity } in package com.android.dialer
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2016-04-15 12:31:12.178  system_uptime:3446437]
+    // Sending event #9800
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(550.0,754.0)
+:Sending Touch (ACTION_UP): 0:(549.11884,738.4475)
+:Sending Touch (ACTION_DOWN): 0:(770.0,1633.0)
+:Sending Touch (ACTION_UP): 0:(800.31415,1602.4515)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(960.0,652.0)
+:Sending Touch (ACTION_UP): 0:(875.0872,660.6024)
+:Sending Touch (ACTION_DOWN): 0:(328.0,840.0)
+:Sending Touch (ACTION_UP): 0:(263.97607,896.45605)
+:Sending Touch (ACTION_DOWN): 0:(548.0,1512.0)
+:Sending Touch (ACTION_UP): 0:(525.83966,1516.948)
+:Sending Touch (ACTION_DOWN): 0:(621.0,1658.0)
+:Sending Touch (ACTION_UP): 0:(611.1643,1657.4364)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1119.0)
+:Sending Touch (ACTION_UP): 0:(267.02518,1118.1755)
+:Sending Touch (ACTION_DOWN): 0:(496.0,603.0)
+    //[calendar_time:2016-04-15 12:31:12.666  system_uptime:3446925]
+    // Sending event #9900
+:Sending Touch (ACTION_UP): 0:(492.52823,602.36646)
+:Sending Touch (ACTION_DOWN): 0:(865.0,1681.0)
+:Sending Touch (ACTION_UP): 0:(862.96967,1697.9105)
+:Sending Touch (ACTION_DOWN): 0:(371.0,625.0)
+:Sending Touch (ACTION_UP): 0:(361.94217,620.1137)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(939.0,1400.0)
+:Sending Touch (ACTION_UP): 0:(941.75867,1402.2196)
+:Sending Touch (ACTION_DOWN): 0:(614.0,659.0)
+:Sending Touch (ACTION_UP): 0:(611.351,658.6725)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(303.0,383.0)
+:Sending Touch (ACTION_UP): 0:(293.58606,369.9877)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.douglaslewis.weatherforecast/.Views.MainActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.douglaslewis.weatherforecast/.Views.MainActivity } in package com.douglaslewis.weatherforecast
+:Sending Touch (ACTION_DOWN): 0:(525.0,203.0)
+:Sending Touch (ACTION_UP): 0:(540.8146,203.91269)
+:Sending Touch (ACTION_DOWN): 0:(453.0,626.0)
+:Sending Touch (ACTION_UP): 0:(440.67096,637.3419)
+:Sending Touch (ACTION_DOWN): 0:(245.0,624.0)
+Events injected: 10000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=9 pointers=81 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=80194ms (0ms mobile, 0ms wifi, 80194ms not connected)
+// Monkey finished

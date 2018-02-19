@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:card_view="http://schemas.android.com/tools"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:background="@color/colorBasicLight"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/quick_card_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/colorBlack"
+        android:text="@string/unknown"/>
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/quick_card"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:theme="@style/QuickCardTheme"
+        app:cardCornerRadius="5dp"
+        card_view:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="125dp"
+            android:layout_height="125dp"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/quick_card_weather_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/unknown"
+                android:textColor="@color/colorPrimaryDark"
+                android:theme="@style/TextTheme"
+                />
+
+            <ImageView
+                android:id="@+id/quick_card_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="center"
+                android:contentDescription="@string/weather_forecast"
+                android:src="@android:drawable/ic_input_add"/>
+
+            <include layout="@layout/high_low_temp"/>
+
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>
+

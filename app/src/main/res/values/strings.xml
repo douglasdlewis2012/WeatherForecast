@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+
+    <string name="title_activity_main">WeatherForecast</string>
+
+
+    <string name="quick_card_seperator">|</string>
+
+
+    <string name="high">High:</string>
+
+    <string name="low">Low:</string>
+    <string name="unknown">\?</string>
+    <string name="no_network">We\'re sorry\, no network connection.</string>
+
+    <string name="clear_day">Sunny</string>
+    <string name="clear_night">Clear</string>
+    <string name="rain">Rain</string>
+    <string name="snow">Snow</string>
+    <string name="sleet">Sleet</string>
+    <string name="wind">Windy</string>
+    <string name="partly_cloudy_night">Cloudy Night</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="partly_cloud_day">Cloudy Day</string>
+    <string name="def">unknown</string>
+    <string name="network_error">Network Error</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="weather_forecast">weather type</string>
+    <string name="temperature">Current: </string>
+    <string name="location">Location: </string>
+
+</resources>
